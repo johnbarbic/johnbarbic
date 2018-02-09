@@ -6,14 +6,6 @@
 	"items": [
 		
 		{
-			"id": "http://daily.micro.blog/2018/02/09/a-second-mirroring.html",
-	      	
-			"content_html": "<p>A second mirroring test.</p>\n",
-			"date_published": "2018-02-09T10:15:00-07:00",
-			"url": "http://www.barbic.com/2018/02/09/a-second-mirroring.html"
-		},
-		
-		{
 			"id": "http://daily.micro.blog/2018/02/06/today-i-witnessed.html",
 	      	
 			"content_html": "<p>Today I witnessed Starman sitting in his Tesla on the way to Mars.  What a great moment to be alive.  🚀</p>\n",
@@ -85,6 +77,14 @@
 			"content_html": "<p>Temptation</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/f4e18f9b03.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-17T17:11:00-07:00",
 			"url": "http://www.barbic.com/2017/12/17/temptation.html"
+		},
+		
+		{
+			"id": "http://daily.micro.blog/2017/12/16/has-banning-words.html",
+	      	
+			"content_html": "<p>Has banning words ever worked out for the people trying to ban them before?  Asking for a friend.</p>\n",
+			"date_published": "2017-12-16T12:56:00-07:00",
+			"url": "http://www.barbic.com/2017/12/16/has-banning-words.html"
 		}
 		
 	]
