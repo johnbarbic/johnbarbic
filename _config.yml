@@ -1,0 +1,32 @@
+email: your-email@domain.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
+
+title: "John Barbic"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/johnbarbic\">@johnbarbic on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/johnbarbic\">@johnbarbic on Micro.blog</a>."
+baseurl: ""
+url: "http://www.barbic.com"
+markdown: "kramdown"
+username: "johnbarbic"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "John Barbic"
+name: "John Barbic"
+gravatar_hash: "29dded88a1d07b81942d20a4c22e21d6"
+avatar: "https://micro.blog/johnbarbic/avatar.jpg"
+full_name: "John Barbic"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Mountain"
+site_id: "1213"
