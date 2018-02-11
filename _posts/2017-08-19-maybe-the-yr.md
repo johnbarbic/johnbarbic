@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 date: 2017-08-19 11:33 -0700
-guid: http://daily.micro.blog/2017/08/19/maybe-the-yr.html
+guid: http://johnbarbic.micro.blog/2017/08/19/maybe-the-yr.html
 ---
 Maybe the 11-yr old will be a cartoonist one day.
 
