@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/02/18/i-noticed-a.html",
+	      	
+			"content_html": "<p>I noticed a new favicon appeared on my hosted site today and was dismayed to see it didn’t have a transparent background.  So I updated my my gravatar image, and et voilà, the site was updated in minutes.  I ❤️ micro.blog.</p>\n",
+			"date_published": "2018-02-18T14:16:00-07:00",
+			"url": "http://www.barbic.com/2018/02/18/i-noticed-a.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/02/18/so-i-walked.html",
 	      	
 			"content_html": "<p>I walked into my local Apple store today to see about getting the battery replaced in my early 2013 Macbook Pro and the kid in the store called it “vintage, if not obsolete.”  Apparently, my only option is third party shops because they wont touch it.  Grrr.  </p>\n",
@@ -77,14 +85,6 @@
 			"content_html": "<p>Christmas lights at Denver Botanic Gardens</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/acdb6cc6cb.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-23T08:41:00-07:00",
 			"url": "http://www.barbic.com/2017/12/23/christmas-lights-at.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/12/18/temptation.html",
-	      	
-			"content_html": "<p>Temptation</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/f4e18f9b03.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-17T17:11:00-07:00",
-			"url": "http://www.barbic.com/2017/12/17/temptation.html"
 		}
 		
 	]
