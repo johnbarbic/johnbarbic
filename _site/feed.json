@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/02/20/apparently-i-live.html",
+	      	
+			"content_html": "<p>Apparently, I live in a Bob Ross painting.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/a887252b26.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-20T07:33:00-07:00",
+			"url": "http://www.barbic.com/2018/02/20/apparently-i-live.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/02/18/i-noticed-a.html",
 	      	
 			"content_html": "<p>I noticed a new favicon appeared on my hosted site today and was dismayed to see it didn’t have a transparent background.  So I updated my my gravatar image, and et voilà, the site was updated in minutes.  I ❤️ micro.blog.</p>\n",
@@ -85,6 +93,120 @@
 			"content_html": "<p>Christmas lights at Denver Botanic Gardens</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/acdb6cc6cb.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2017-12-23T08:41:00-07:00",
 			"url": "http://www.barbic.com/2017/12/23/christmas-lights-at.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/18/temptation.html",
+	      	
+			"content_html": "<p>Temptation</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/f4e18f9b03.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-17T17:11:00-07:00",
+			"url": "http://www.barbic.com/2017/12/17/temptation.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/16/has-banning-words.html",
+	      	
+			"content_html": "<p>Has banning words ever worked out for the people trying to ban them before?  Asking for a friend.</p>\n",
+			"date_published": "2017-12-16T12:56:00-07:00",
+			"url": "http://www.barbic.com/2017/12/16/has-banning-words.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/16/getting-started-halfway.html",
+	      	
+			"title": "Getting started halfway through my first year on micro.blog",
+			
+			"content_html": "<p>Just finished the last major release of the year at work and now I am thinking about what I want to do with this ole blog.  For many months now I have dabbled on and off, and played with some formatting and tested pages, but I haven’t started, not really.</p>\n\n<p>One of the reasons I backed micro.blog is that I liked the idea of simply writing more, and writing more simply without all the baggage that comes with social networks.  I started this year by walking away from my facebook account because it felt unhealthy to me.  And almost a year on, it’s reaffirming to read articles that advance those feelings in tangible ways.  So what is the difference with micro.blog?  I think the difference is captured in something Manton wrote about owning your own short form writing.  Owning your words, and paying a nominal fee to be read (assuming anyone does this), simply feels better.  Ownership is something that comes with a price and perhaps that is one of the ways to keep ourselves writing from a place of humility, empathy, and simplicity.  I confess I was not always happy with the person I was on facebook and I hope to be better if I should keep this up.  </p>\n\n<p>My hope is that I create some body of writing that has value to me. In the same way photos become a stanchion of memory, my writing may help me to remember.  Or perhaps I will write something of value to others.  I have no idea, but it will be interesting to do this and see what happens.</p>\n\n<p>So what do I do now?  I guess the answer is to get started…</p>\n",
+			"date_published": "2017-12-16T10:01:00-07:00",
+			"url": "http://www.barbic.com/2017/12/16/getting-started-halfway.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/05/moon-over-table.html",
+	      	
+			"content_html": "<p>Moon over Table Mountain</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/8dd97ef386.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-12-05T08:25:00-07:00",
+			"url": "http://www.barbic.com/2017/12/05/moon-over-table.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/11/23/thanksgiving-hike.html",
+	      	
+			"content_html": "<p>Thanksgiving hike 2017</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/5d2e3ab4eb.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-23T12:15:00-07:00",
+			"url": "http://www.barbic.com/2017/11/23/thanksgiving-hike.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/10/17/seen-at-work.html",
+	      	
+			"content_html": "<p>Seen at work this morning.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/da517d7447.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-17T06:37:00-07:00",
+			"url": "http://www.barbic.com/2017/10/17/seen-at-work.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/09/09/early-morning-on.html",
+	      	
+			"content_html": "<p>Early morning on the pitch.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/11e12a7e89.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-09T08:07:00-07:00",
+			"url": "http://www.barbic.com/2017/09/09/early-morning-on.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/09/04/hazy-labor-day.html",
+	      	
+			"content_html": "<p>Hazy Labor Day morning</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/1d0c3b8475.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-09-04T06:15:00-07:00",
+			"url": "http://www.barbic.com/2017/09/04/hazy-labor-day.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/09/03/long-live-steely.html",
+	      	
+			"content_html": "<p>Long live Steely Dan…</p>\n",
+			"date_published": "2017-09-03T09:25:00-07:00",
+			"url": "http://www.barbic.com/2017/09/03/long-live-steely.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/08/26/look-what-came.html",
+	      	
+			"content_html": "<p>Look what came in the mail today.  Clearly my addiction requires some sort of intervention.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/f595dc210d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-26T09:21:00-07:00",
+			"url": "http://www.barbic.com/2017/08/26/look-what-came.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/08/19/maybe-the-yr.html",
+	      	
+			"content_html": "<p>Maybe the 11-yr old will be a cartoonist one day.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/a667e495d5.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2017-08-19T11:33:00-07:00",
+			"url": "http://www.barbic.com/2017/08/19/maybe-the-yr.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/08/02/watch-your-toes.html",
+	      	
+			"content_html": "<p>Watch your toes!</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/be0e728ece.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-08-02T07:23:00-07:00",
+			"url": "http://www.barbic.com/2017/08/02/watch-your-toes.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/07/29/many-chickens-died.html",
+	      	
+			"content_html": "<p>Many chickens died to bring you this update…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/93eea8fe26.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-07-28T17:54:00-07:00",
+			"url": "http://www.barbic.com/2017/07/28/many-chickens-died.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/06/24/deep-inside-the.html",
+	      	
+			"content_html": "<p>Deep inside The Tattered Cover - Denver, CO.</p>\n\n<p><img src=\"http://johnbarbic.micro.blog/uploads/2017/f86970eff4.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
+			"date_published": "2017-06-24T13:18:00-07:00",
+			"url": "http://www.barbic.com/2017/06/24/deep-inside-the.html"
 		}
 		
 	]
