@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/02/21/driving-in-today.html",
+	      	
+			"content_html": "<p>Driving in today the thermostat went from 3 degrees to 6 degrees.  Spring has come to Colorado.</p>\n",
+			"date_published": "2018-02-21T08:04:00-07:00",
+			"url": "http://www.barbic.com/2018/02/21/driving-in-today.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/02/20/apparently-i-live.html",
 	      	
 			"content_html": "<p>Apparently, I live in a Bob Ross painting.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/a887252b26.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Many chickens died to bring you this update…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/93eea8fe26.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-28T17:54:00-07:00",
 			"url": "http://www.barbic.com/2017/07/28/many-chickens-died.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/06/24/deep-inside-the.html",
-	      	
-			"content_html": "<p>Deep inside The Tattered Cover - Denver, CO.</p>\n\n<p><img src=\"http://johnbarbic.micro.blog/uploads/2017/f86970eff4.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-06-24T13:18:00-07:00",
-			"url": "http://www.barbic.com/2017/06/24/deep-inside-the.html"
 		}
 		
 	]
