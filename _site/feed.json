@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/02/22/the-battery-replacement.html",
+	      	
+			"content_html": "<p>The battery replacement kit is out for delivery.  Now I just need to work up the courage to crack open a perfectly useable vintage/obsolete MBP and take its beating heart into my untrained hands.  💻</p>\n",
+			"date_published": "2018-02-22T11:02:00-07:00",
+			"url": "http://www.barbic.com/2018/02/22/the-battery-replacement.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/02/21/driving-in-today.html",
 	      	
 			"content_html": "<p>Driving in today the thermostat went from 3 degrees to 6 degrees.  Spring has come to Colorado.</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Watch your toes!</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/be0e728ece.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-08-02T07:23:00-07:00",
 			"url": "http://www.barbic.com/2017/08/02/watch-your-toes.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/07/29/many-chickens-died.html",
-	      	
-			"content_html": "<p>Many chickens died to bring you this update…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/93eea8fe26.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-28T17:54:00-07:00",
-			"url": "http://www.barbic.com/2017/07/28/many-chickens-died.html"
 		}
 		
 	]
