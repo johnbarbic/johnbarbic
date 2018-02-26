@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/02/26/i-am-in.html",
+	      	
+			"content_html": "<p>I am in it now :-)</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/98812265f5.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-02-26T07:49:00-07:00",
+			"url": "http://www.barbic.com/2018/02/26/i-am-in.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/02/22/the-battery-replacement.html",
 	      	
 			"content_html": "<p>The battery replacement kit is out for delivery.  Now I just need to work up the courage to crack open a perfectly useable vintage/obsolete MBP and take its beating heart into my untrained hands.  💻</p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Maybe the 11-yr old will be a cartoonist one day.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/a667e495d5.jpg\" width=\"599\" height=\"600\" /></p>\n",
 			"date_published": "2017-08-19T11:33:00-07:00",
 			"url": "http://www.barbic.com/2017/08/19/maybe-the-yr.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/08/02/watch-your-toes.html",
-	      	
-			"content_html": "<p>Watch your toes!</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/be0e728ece.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-08-02T07:23:00-07:00",
-			"url": "http://www.barbic.com/2017/08/02/watch-your-toes.html"
 		}
 		
 	]
