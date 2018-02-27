@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/02/27/radio-free-boulder.html",
+	      	
+			"content_html": "<p>Radio Free Boulder Colorado is back on the air.  Turns out that replacing a battery in an early 2013 is difficult, but doable.  And bonus - I think I have a topic to blog about this week. </p>\n",
+			"date_published": "2018-02-27T07:25:00-07:00",
+			"url": "http://www.barbic.com/2018/02/27/radio-free-boulder.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/02/26/i-am-in.html",
 	      	
 			"content_html": "<p>I am in it now :-)</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/98812265f5.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Look what came in the mail today.  Clearly my addiction requires some sort of intervention.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/f595dc210d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-08-26T09:21:00-07:00",
 			"url": "http://www.barbic.com/2017/08/26/look-what-came.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/08/19/maybe-the-yr.html",
-	      	
-			"content_html": "<p>Maybe the 11-yr old will be a cartoonist one day.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/a667e495d5.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-08-19T11:33:00-07:00",
-			"url": "http://www.barbic.com/2017/08/19/maybe-the-yr.html"
 		}
 		
 	]
