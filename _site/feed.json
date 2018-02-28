@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/02/28/music-another-one.html",
+	      	
+			"content_html": "<p>Music: Another one of the joys of being a dad.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/8777a87c32.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-27T18:30:00-07:00",
+			"url": "http://www.barbic.com/2018/02/27/music-another-one.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/02/27/radio-free-boulder.html",
 	      	
 			"content_html": "<p>Radio Free Boulder Colorado is back on the air.  Turns out that replacing a battery in an early 2013 is difficult, but doable.  And bonus - I think I have a topic to blog about this week. </p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Long live Steely Dan…</p>\n",
 			"date_published": "2017-09-03T09:25:00-07:00",
 			"url": "http://www.barbic.com/2017/09/03/long-live-steely.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/08/26/look-what-came.html",
-	      	
-			"content_html": "<p>Look what came in the mail today.  Clearly my addiction requires some sort of intervention.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/f595dc210d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-08-26T09:21:00-07:00",
-			"url": "http://www.barbic.com/2017/08/26/look-what-came.html"
 		}
 		
 	]
