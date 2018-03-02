@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/this-is-close.html",
+	      	
+			"content_html": "<p>This is close up of the battery connector socket after securing the battery board with two Torx screws.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/75f8347512.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-03-02T07:38:00-07:00",
+			"url": "http://www.barbic.com/2018/03/02/this-is-close.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/replacing-the-battery.html",
+	      	
+			"title": "Replacing the Battery in an Early 2013 MacBook Pro - Close up of the keyboard ribbon cable",
+			
+			"content_html": "<p>This is a close up of where the ribbon cable is located in reference to the battery’s connector socket. Apart from this one location, you can pretty much pry your heart out as long as you do put too much stress on the battery cell itself or compress the floor of the bay to such a degree that you compromise the track pad housing.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/314aa2ca4e.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-03-02T07:31:00-07:00",
+			"url": "http://www.barbic.com/2018/03/02/replacing-the-battery.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/once-the-center.html",
+	      	
+			"content_html": "<p>Once the center cells are out the entire battery can be lifted out.  This is a shot of the bay after the battery is completely removed.  As you can see, there is little reason to disassemble the machine complete apart from an abundance of caution.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/592985f852.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-03-02T07:25:00-07:00",
+			"url": "http://www.barbic.com/2018/03/02/once-the-center.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/02/the-next-picture.html",
 	      	
 			"content_html": "<p>The next picture shows the second cell up and the key thing to note is the plastic wall that exists at the far end. That looks permenent, but it is actually part of the battery’s housing. It can be gently lifted out of the way and there is your  access the center cells.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/8f47bb0861.jpg\" width=\"450\" height=\"600\" /></p>\n",
@@ -187,30 +213,6 @@
 			"content_html": "<p>Just finished the last major release of the year at work and now I am thinking about what I want to do with this ole blog.  For many months now I have dabbled on and off, and played with some formatting and tested pages, but I haven’t started, not really.</p>\n\n<p>One of the reasons I backed micro.blog is that I liked the idea of simply writing more, and writing more simply without all the baggage that comes with social networks.  I started this year by walking away from my facebook account because it felt unhealthy to me.  And almost a year on, it’s reaffirming to read articles that advance those feelings in tangible ways.  So what is the difference with micro.blog?  I think the difference is captured in something Manton wrote about owning your own short form writing.  Owning your words, and paying a nominal fee to be read (assuming anyone does this), simply feels better.  Ownership is something that comes with a price and perhaps that is one of the ways to keep ourselves writing from a place of humility, empathy, and simplicity.  I confess I was not always happy with the person I was on facebook and I hope to be better if I should keep this up.  </p>\n\n<p>My hope is that I create some body of writing that has value to me. In the same way photos become a stanchion of memory, my writing may help me to remember.  Or perhaps I will write something of value to others.  I have no idea, but it will be interesting to do this and see what happens.</p>\n\n<p>So what do I do now?  I guess the answer is to get started…</p>\n",
 			"date_published": "2017-12-16T10:01:00-07:00",
 			"url": "http://www.barbic.com/2017/12/16/getting-started-halfway.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/12/05/moon-over-table.html",
-	      	
-			"content_html": "<p>Moon over Table Mountain</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/8dd97ef386.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-05T08:25:00-07:00",
-			"url": "http://www.barbic.com/2017/12/05/moon-over-table.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/11/23/thanksgiving-hike.html",
-	      	
-			"content_html": "<p>Thanksgiving hike 2017</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/5d2e3ab4eb.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-11-23T12:15:00-07:00",
-			"url": "http://www.barbic.com/2017/11/23/thanksgiving-hike.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/10/17/seen-at-work.html",
-	      	
-			"content_html": "<p>Seen at work this morning.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/da517d7447.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2017-10-17T06:37:00-07:00",
-			"url": "http://www.barbic.com/2017/10/17/seen-at-work.html"
 		}
 		
 	]
