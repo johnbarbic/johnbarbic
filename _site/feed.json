@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/151721.html",
+	      	
+			"title": "Replacing the Battery in an Early 2013 MacBook Pro - End",
+			
+			"content_html": "<p>At the end of the second Ghostbusters movie Rick Moranis’s character Louis Tully has acquired a portable cyclotron and has been dutifully blasting away at the slime barrier around the museum when it finally explodes and frees the rest of the gang.  At one point someone turns and goes, “Hey, you’re a Ghostbuster!” And he just stands there nodding his head in this excited little way and goes, “I’m a Ghostbuster!”  <strong>That</strong> is the feeling you get when you pull something like this off.   The other bit that was exciting about doing this is actually breaking the equivalent of the 4th Wall and peering into the box itself.   I don’t miss PCs, but I do lament the fact that with mobile computing we rarely if ever get into the machine anymore.  I suppose it’s not unlike old gear heads lamenting the fact that they can’t turn newer cars into hot rods.  The fact is we’re becoming more removed from the very thing that makes software possible, but that is where it lives, right there, in the shot below.</p>\n\n<p>The new battery is in its place and 5 years of dust &amp; cruftage has been dutifully blown out of the chassis. I guess I’m a computer repairman now…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/7e78e07f90.jpg\" width=\"600\" height=\"349\" /></p>\n",
+			"date_published": "2018-03-02T08:17:00-07:00",
+			"url": "http://www.barbic.com/2018/03/02/151721.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/02/this-is-close.html",
 	      	
 			"content_html": "<p>This is close up of the battery connector socket after securing the battery board with two Torx screws.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/75f8347512.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -203,16 +213,6 @@
 			"content_html": "<p>Has banning words ever worked out for the people trying to ban them before?  Asking for a friend.</p>\n",
 			"date_published": "2017-12-16T12:56:00-07:00",
 			"url": "http://www.barbic.com/2017/12/16/has-banning-words.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/12/16/getting-started-halfway.html",
-	      	
-			"title": "Getting started halfway through my first year on micro.blog",
-			
-			"content_html": "<p>Just finished the last major release of the year at work and now I am thinking about what I want to do with this ole blog.  For many months now I have dabbled on and off, and played with some formatting and tested pages, but I haven’t started, not really.</p>\n\n<p>One of the reasons I backed micro.blog is that I liked the idea of simply writing more, and writing more simply without all the baggage that comes with social networks.  I started this year by walking away from my facebook account because it felt unhealthy to me.  And almost a year on, it’s reaffirming to read articles that advance those feelings in tangible ways.  So what is the difference with micro.blog?  I think the difference is captured in something Manton wrote about owning your own short form writing.  Owning your words, and paying a nominal fee to be read (assuming anyone does this), simply feels better.  Ownership is something that comes with a price and perhaps that is one of the ways to keep ourselves writing from a place of humility, empathy, and simplicity.  I confess I was not always happy with the person I was on facebook and I hope to be better if I should keep this up.  </p>\n\n<p>My hope is that I create some body of writing that has value to me. In the same way photos become a stanchion of memory, my writing may help me to remember.  Or perhaps I will write something of value to others.  I have no idea, but it will be interesting to do this and see what happens.</p>\n\n<p>So what do I do now?  I guess the answer is to get started…</p>\n",
-			"date_published": "2017-12-16T10:01:00-07:00",
-			"url": "http://www.barbic.com/2017/12/16/getting-started-halfway.html"
 		}
 		
 	]
