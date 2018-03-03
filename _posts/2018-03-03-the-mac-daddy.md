@@ -9,19 +9,24 @@ I’m experimenting now with the phone app. Here I’m adding five photos to sho
 
 I’m not sure what right answer is when it comes to placement so this is a way of discovering how we can use micro.blog through the clever use of food porn. 
 
-Awesome.  So after you post multiple photos through the phone app, you can then edit the post on the web to interject prose in line.
+Awesome! So after you post multiple photos through the phone app, you can then edit the post on the web to interject prose inline, that is fantastic.  So what is a Mac Daddy?
 
-Step 1
+It begins by getting a plain take and bake cheese pizza, browning about 3/4 pound of ground beef, and then sprinkling that throughout the cheese.  I also add slices of onion.  Bake at 425 for 10 minutes.
+
 <img src="http://www.barbic.com/uploads/2018/4e93f324f0.jpg" width="599" height="600" />
 
-Step 2
+While the pie is baking, remove the core from an iceberg lettuce...
+
 <img src="http://www.barbic.com/uploads/2018/032f2dea8a.jpg" width="599" height="600" />
 
-Step 3
+...and chop that sucker up.
+
 <img src="http://www.barbic.com/uploads/2018/b34acfc0c9.jpg" width="599" height="600" />
 
-Step 4
+When the pie is done baking, use Thousand Island dressing to make a nice swirl of yumminess throughout the cheesy beefy oniony crust.  Then distribute the lettuce and add chopped tomatoes to your liking.  Add another swirl of Thousand Island to finish it off.
+
 <img src="http://www.barbic.com/uploads/2018/b3564b1f19.jpg" width="599" height="600" />
 
-Fin
+The end result is the Mac Daddy.  So named because it tastes like a better version of a Big Mac.  It's kid tested and perfect for movie nights.  Now, wasn't this a fun way to see what you can do with muliple photos in a single post on micro.blog?
+
 <img src="http://www.barbic.com/uploads/2018/5b3cb60751.jpg" width="600" height="599" />
