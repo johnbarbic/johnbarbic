@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/03/the-mac-daddy.html",
+	      	
+			"title": "The Mac Daddy",
+			
+			"content_html": "<p>I’m experimenting now with the phone app. Here I’m adding five photos to show how I made a Mac Daddy pizza.  I’m curious if I can add them here and edit the post and place text between them later.  In other words, how do multiple photos get organized in a single post and how can the author organize them if at all?  It’s an interesting trying to communicate with words and photos. It shows how the platform can impact the writing.  Support for photos sounds easy at first, but support for multiple photos leads interesting design decisions both for the platform and the user.<br />\nI’m not sure what right answer is when it comes to placement so this is a way of discovering how we can use micro.blog through the clever use of food porn. </p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/4e93f324f0.jpg\" width=\"599\" height=\"600\" /><img src=\"http://www.barbic.com/uploads/2018/032f2dea8a.jpg\" width=\"599\" height=\"600\" /><img src=\"http://www.barbic.com/uploads/2018/b34acfc0c9.jpg\" width=\"599\" height=\"600\" /><img src=\"http://www.barbic.com/uploads/2018/b3564b1f19.jpg\" width=\"599\" height=\"600\" /><img src=\"http://www.barbic.com/uploads/2018/5b3cb60751.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-03-03T07:12:00-07:00",
+			"url": "http://www.barbic.com/2018/03/03/the-mac-daddy.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/02/151721.html",
 	      	
 			"title": "Replacing the Battery in an Early 2013 MacBook Pro - End",
@@ -205,14 +215,6 @@
 			"content_html": "<p>Temptation</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/f4e18f9b03.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2017-12-17T17:11:00-07:00",
 			"url": "http://www.barbic.com/2017/12/17/temptation.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/12/16/has-banning-words.html",
-	      	
-			"content_html": "<p>Has banning words ever worked out for the people trying to ban them before?  Asking for a friend.</p>\n",
-			"date_published": "2017-12-16T12:56:00-07:00",
-			"url": "http://www.barbic.com/2017/12/16/has-banning-words.html"
 		}
 		
 	]
