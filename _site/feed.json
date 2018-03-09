@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/09/word-of-the.html",
+	      	
+			"title": "Word of the day - Licentious",
+			
+			"content_html": "<p>Reading this morning I came upon this word, <a href=\"https://www.wordnik.com/words/licentious\">licentious.</a>  </p>\n\n<p>Licentious - adjective</p>\n\n<ol>\n  <li>Lacking moral discipline or ignoring legal restraint, especially in sexual conduct. </li>\n  <li>Having no regard for accepted rules or standards.</li>\n</ol>\n\n<p>And it became my word of the day.</p>\n",
+			"date_published": "2018-03-09T08:17:00-07:00",
+			"url": "http://www.barbic.com/2018/03/09/word-of-the.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/05/if-there-were.html",
 	      	
 			"content_html": "<p>If there were an Oscar for sleeping I’m pretty sure I could take the Best Side Sleep - Man On A Couch Category.</p>\n",
@@ -207,14 +217,6 @@
 			"content_html": "<p>My memory this day will be of waking up early on a foggy morning, drinking hot coffee and watching the EPL, children constructing legos and playing with toys while the cat does his best to turn himself into a cinnamon roll on the couch, and the snow.  The snow came as a pleasant suprise today after the crush of activity around Christmas.  In other words, it’s fine day to relax the mind and take life in for a change.  Working in information and software often takes it toll in the amount of mind share we give to the real world and as I begin to engage more with this microblog of mine I want to capture this stuff.  Years from now I wont remember what project I was doing this month, but I hope I remember the warmth of this day.  </p>\n",
 			"date_published": "2017-12-26T13:12:00-07:00",
 			"url": "http://www.barbic.com/2017/12/26/on-boxing-day.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/12/25/christmas-eve.html",
-	      	
-			"content_html": "<p>Christmas Eve…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/627a308172.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2017-12-24T19:13:00-07:00",
-			"url": "http://www.barbic.com/2017/12/24/christmas-eve.html"
 		}
 		
 	]
