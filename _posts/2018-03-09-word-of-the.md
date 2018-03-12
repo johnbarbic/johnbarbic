@@ -2,7 +2,7 @@
 layout: post
 title: "Word of the day - Licentious"
 microblog: false
-date: 2018-03-09 08:17 -0700
+date: 2018-03-09 09:17 -0600
 guid: http://johnbarbic.micro.blog/2018/03/09/word-of-the.html
 ---
 Reading this morning I came upon this word, [licentious.](https://www.wordnik.com/words/licentious)  
