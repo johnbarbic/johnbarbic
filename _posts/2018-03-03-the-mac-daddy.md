@@ -2,7 +2,7 @@
 layout: post
 title: "The Mac Daddy"
 microblog: false
-date: 2018-03-03 07:12 -0700
+date: 2018-03-03 08:12 -0600
 guid: http://johnbarbic.micro.blog/2018/03/03/the-mac-daddy.html
 ---
 I’m experimenting now with the phone app. Here I’m adding five photos to show how I made a Mac Daddy pizza.  I’m curious if I can add them here and edit the post and place text between them later.  In other words, how do multiple photos get organized in a single post and how can the author organize them if at all?  It’s an interesting trying to communicate with words and photos. It shows how the platform can impact the writing.  Support for photos sounds easy at first, but support for multiple photos leads interesting design decisions both for the platform and the user.  
