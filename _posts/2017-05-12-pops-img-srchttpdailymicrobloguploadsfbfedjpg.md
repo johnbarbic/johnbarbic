@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-11 17:51 -0700
+date: 2017-05-11 18:51 -0600
 guid: http://johnbarbic.micro.blog/2017/05/12/pops-img-srchttpdailymicrobloguploadsfbfedjpg.html
 ---
 Pops 2017
