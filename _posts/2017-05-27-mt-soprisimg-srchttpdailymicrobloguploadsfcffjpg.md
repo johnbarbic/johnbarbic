@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-26 19:10 -0700
+date: 2017-05-26 20:10 -0600
 guid: http://johnbarbic.micro.blog/2017/05/27/mt-soprisimg-srchttpdailymicrobloguploadsfcffjpg.html
 ---
 Mt. Sopris
