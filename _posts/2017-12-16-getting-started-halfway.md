@@ -2,7 +2,7 @@
 layout: post
 title: "Getting started halfway through my first year on micro.blog"
 microblog: false
-date: 2017-12-16 10:01 -0700
+date: 2017-12-16 11:01 -0600
 guid: http://johnbarbic.micro.blog/2017/12/16/getting-started-halfway.html
 ---
 Just finished the last major release of the year at work and now I am thinking about what I want to do with this ole blog.  For many months now I have dabbled on and off, and played with some formatting and tested pages, but I haven't started, not really.
