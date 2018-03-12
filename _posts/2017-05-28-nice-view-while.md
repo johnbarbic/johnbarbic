@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-28 07:19 -0700
+date: 2017-05-28 08:19 -0600
 guid: http://johnbarbic.micro.blog/2017/05/28/nice-view-while.html
 ---
 Nice view while making coffee...
