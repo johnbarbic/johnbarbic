@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-06-24 13:18 -0700
+date: 2017-06-24 14:18 -0600
 guid: http://johnbarbic.micro.blog/2017/06/24/deep-inside-the.html
 ---
 Deep inside The Tattered Cover - Denver, CO.
