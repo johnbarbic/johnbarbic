@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-17 17:11 -0700
+date: 2017-12-17 18:11 -0600
 guid: http://johnbarbic.micro.blog/2017/12/18/temptation.html
 ---
 Temptation
