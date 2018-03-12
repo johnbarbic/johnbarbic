@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-25 18:03 -0700
+date: 2018-01-25 19:03 -0600
 guid: http://johnbarbic.micro.blog/2018/01/26/wall-of-beer.html
 ---
 Wall of beer
