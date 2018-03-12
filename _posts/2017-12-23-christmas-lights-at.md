@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-12-23 08:41 -0700
+date: 2017-12-23 09:41 -0600
 guid: http://johnbarbic.micro.blog/2017/12/23/christmas-lights-at.html
 ---
 Christmas lights at Denver Botanic Gardens
