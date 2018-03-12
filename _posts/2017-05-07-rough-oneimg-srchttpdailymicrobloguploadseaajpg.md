@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-07 14:53 -0700
+date: 2017-05-07 15:53 -0600
 guid: http://johnbarbic.micro.blog/2017/05/07/rough-oneimg-srchttpdailymicrobloguploadseaajpg.html
 ---
 Rough One...
