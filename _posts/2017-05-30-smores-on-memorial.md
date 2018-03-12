@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-05-29 18:06 -0700
+date: 2017-05-29 19:06 -0600
 guid: http://johnbarbic.micro.blog/2017/05/30/smores-on-memorial.html
 ---
 S'mores on Memorial Day
