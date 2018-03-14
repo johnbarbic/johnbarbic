@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-27 08:25 -0600
 guid: http://johnbarbic.micro.blog/2018/02/27/radio-free-boulder.html
 ---
