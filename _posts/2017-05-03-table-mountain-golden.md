@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-03 12:34 -0600
 guid: http://johnbarbic.micro.blog/2017/05/03/table-mountain-golden.html
 ---
