@@ -2,6 +2,7 @@
 layout: post
 title: "Replacing the Battery in an Early 2013 MacBook Pro - Prologue"
 microblog: false
+audio: 
 date: 2018-02-28 20:57 -0600
 guid: http://johnbarbic.micro.blog/2018/03/01/replacing-the-battery.html
 ---
