@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-04 13:00 -0600
 guid: http://johnbarbic.micro.blog/2018/03/04/my-first-born.html
 ---
