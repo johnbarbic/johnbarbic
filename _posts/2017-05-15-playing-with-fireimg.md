@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-14 18:55 -0600
 guid: http://johnbarbic.micro.blog/2017/05/15/playing-with-fireimg.html
 ---
