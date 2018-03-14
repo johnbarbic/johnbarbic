@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-09-04 07:15 -0600
 guid: http://johnbarbic.micro.blog/2017/09/04/hazy-labor-day.html
 ---
