@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-29 19:06 -0600
 guid: http://johnbarbic.micro.blog/2017/05/30/smores-on-memorial.html
 ---
