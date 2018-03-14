@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-11-23 13:15 -0600
 guid: http://johnbarbic.micro.blog/2017/11/23/thanksgiving-hike.html
 ---
