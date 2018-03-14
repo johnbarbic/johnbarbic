@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-07 18:57 -0600
 guid: http://johnbarbic.micro.blog/2017/05/08/im-seeing-this.html
 ---
