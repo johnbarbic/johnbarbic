@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-18 14:11 -0600
 guid: http://johnbarbic.micro.blog/2018/02/18/so-i-walked.html
 ---
