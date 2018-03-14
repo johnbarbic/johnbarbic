@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/14/first-clean-sheet.html",
+	      	
+			"content_html": "<p>First clean sheet of the new season</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/b3cecfbcf0.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.barbic.com/uploads/2018/8c648f2e1f.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-13T19:44:00-06:00",
+			"url": "http://www.barbic.com/2018/03/13/first-clean-sheet.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/12/i-want-that.html",
 	      	
 			"content_html": "<p>I. Want. That. Hour. Back.</p>\n",
@@ -207,14 +215,6 @@
 			"content_html": "<p>“I don’t always succeed. But I <em>want</em> to. And I believe everyone else – for some reasonable statistical value of everyone else – fundamentally does, too.” - <a href=\"https://blog.codinghorror.com/to-serve-man-with-software/\">Coding Horror</a></p>\n",
 			"date_published": "2018-01-02T19:42:00-06:00",
 			"url": "http://www.barbic.com/2018/01/02/i-dont-always.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2017/12/31/i-saw-a.html",
-	      	
-			"content_html": "<p>I saw a Random Rock of Kindness on today’s hike.  I hope this bodes well for the new year.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2017/4c49f12814.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2017-12-31T13:18:00-06:00",
-			"url": "http://www.barbic.com/2017/12/31/i-saw-a.html"
 		}
 		
 	]
