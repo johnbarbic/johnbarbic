@@ -2,6 +2,7 @@
 layout: post
 title: "Word of the day - Licentious"
 microblog: false
+audio: 
 date: 2018-03-09 09:17 -0600
 guid: http://johnbarbic.micro.blog/2018/03/09/word-of-the.html
 ---
