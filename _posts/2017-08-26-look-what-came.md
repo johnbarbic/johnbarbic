@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-08-26 10:21 -0600
 guid: http://johnbarbic.micro.blog/2017/08/26/look-what-came.html
 ---
