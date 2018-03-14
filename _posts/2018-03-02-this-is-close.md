@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-03-02 08:38 -0600
 guid: http://johnbarbic.micro.blog/2018/03/02/this-is-close.html
 ---
