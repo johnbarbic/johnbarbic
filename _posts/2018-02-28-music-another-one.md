@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-27 19:30 -0600
 guid: http://johnbarbic.micro.blog/2018/02/28/music-another-one.html
 ---
