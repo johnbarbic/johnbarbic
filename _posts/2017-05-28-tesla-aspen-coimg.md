@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-05-28 11:15 -0600
 guid: http://johnbarbic.micro.blog/2017/05/28/tesla-aspen-coimg.html
 ---
