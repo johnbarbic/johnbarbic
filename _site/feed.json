@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/25/boulder-colorado-clouds.html",
+	      	
+			"content_html": "<p>Boulder, Colorado.  Clouds kissing the top of Longs Peak in the background.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/9f8550c446.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-03-25T14:15:00-06:00",
+			"url": "http://www.barbic.com/2018/03/25/boulder-colorado-clouds.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/24/back-to-the.html",
 	      	
 			"content_html": "<p><a href=\"https://dancohen.org/2018/03/21/back-to-the-blog/\">Back to the Blog</a> - hat tip <a href=\"https://kottke.org\">Jason Kottke</a></p>\n",
@@ -207,14 +215,6 @@
 			"content_html": "<p>I walked into my local Apple store today to see about getting the battery replaced in my early 2013 Macbook Pro and the kid in the store called it “vintage, if not obsolete.”  Apparently, my only option is third party shops because they wont touch it.  Grrr.  </p>\n",
 			"date_published": "2018-02-18T14:11:00-06:00",
 			"url": "http://www.barbic.com/2018/02/18/so-i-walked.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/02/06/today-i-witnessed.html",
-	      	
-			"content_html": "<p>Today I witnessed Starman sitting in his Tesla on the way to Mars.  What a great moment to be alive.  🚀</p>\n",
-			"date_published": "2018-02-06T16:57:00-06:00",
-			"url": "http://www.barbic.com/2018/02/06/today-i-witnessed.html"
 		}
 		
 	]
