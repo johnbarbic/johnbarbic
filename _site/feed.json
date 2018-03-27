@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/27/the-view-from.html",
+	      	
+			"content_html": "<p>The view from my window this morning.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/6f3a756987.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-03-27T07:12:00-06:00",
+			"url": "http://www.barbic.com/2018/03/27/the-view-from.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/25/boulder-colorado-clouds.html",
 	      	
 			"content_html": "<p>Boulder, Colorado.  Clouds kissing the top of Longs Peak in the background.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/9f8550c446.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -207,14 +215,6 @@
 			"content_html": "<p>I noticed a new favicon appeared on my hosted site today and was dismayed to see it didn’t have a transparent background.  So I updated my my gravatar image, and et voilà, the site was updated in minutes.  I ❤️ micro.blog.</p>\n",
 			"date_published": "2018-02-18T15:16:00-06:00",
 			"url": "http://www.barbic.com/2018/02/18/i-noticed-a.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/02/18/so-i-walked.html",
-	      	
-			"content_html": "<p>I walked into my local Apple store today to see about getting the battery replaced in my early 2013 Macbook Pro and the kid in the store called it “vintage, if not obsolete.”  Apparently, my only option is third party shops because they wont touch it.  Grrr.  </p>\n",
-			"date_published": "2018-02-18T14:11:00-06:00",
-			"url": "http://www.barbic.com/2018/02/18/so-i-walked.html"
 		}
 		
 	]
