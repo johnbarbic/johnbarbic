@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/29/spring.html",
+	      	
+			"content_html": "<p>“Spring”</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/baf0ef40c4.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-03-29T07:56:00-06:00",
+			"url": "http://www.barbic.com/2018/03/29/spring.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/27/the-view-from.html",
 	      	
 			"content_html": "<p>The view from my window this morning.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/6f3a756987.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -207,14 +215,6 @@
 			"content_html": "<p>Apparently, I live in a Bob Ross painting.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/a887252b26.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-02-20T08:33:00-06:00",
 			"url": "http://www.barbic.com/2018/02/20/apparently-i-live.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/02/18/i-noticed-a.html",
-	      	
-			"content_html": "<p>I noticed a new favicon appeared on my hosted site today and was dismayed to see it didn’t have a transparent background.  So I updated my my gravatar image, and et voilà, the site was updated in minutes.  I ❤️ micro.blog.</p>\n",
-			"date_published": "2018-02-18T15:16:00-06:00",
-			"url": "http://www.barbic.com/2018/02/18/i-noticed-a.html"
 		}
 		
 	]
