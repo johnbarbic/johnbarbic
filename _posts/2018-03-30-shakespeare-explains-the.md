@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shakespeare explains the business of software development "
+title: "Henslowe explains the business of software development "
 microblog: false
 audio: 
 date: 2018-03-30 10:07 -0600
