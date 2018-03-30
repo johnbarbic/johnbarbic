@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/30/shakespeare-explains-the.html",
+	      	
+			"title": "Shakespeare explains the business of software development ",
+			
+			"content_html": "<p><strong>Henslowe:</strong> Mr. Fennyman, allow me to explain about the software business. The natural condition is one of insurmountable obstacles on the road to imminent disaster.</p>\n\n<p><strong>Fennyman:</strong> So what do we do?</p>\n\n<p><strong>Henslowe:</strong> Nothing. Strangely enough, it all turns out well.</p>\n\n<p><strong>Fennyman:</strong> How?</p>\n\n<p><strong>Henslowe:</strong> I don’t know. It’s a mystery.</p>\n",
+			"date_published": "2018-03-30T10:07:00-06:00",
+			"url": "http://www.barbic.com/2018/03/30/shakespeare-explains-the.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/29/spring.html",
 	      	
 			"content_html": "<p>“Spring”</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/baf0ef40c4.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -74,8 +84,8 @@
 	      	
 			"title": "Word of the day - Licentious",
 			
-			"content_html": "<p>Reading this morning I came upon this word, <a href=\"https://www.wordnik.com/words/licentious\">licentious.</a>  </p>\n\n<p>Licentious - adjective</p>\n\n<ol>\n  <li>Lacking moral discipline or ignoring legal restraint, especially in sexual conduct. </li>\n  <li>Having no regard for accepted rules or standards.</li>\n</ol>\n\n<p>And it became my word of the day.</p>\n",
-			"date_published": "2018-03-09T09:17:00-06:00",
+			"content_html": "<p>Reading this morning I came upon this word, <a href=\"https://www.wordnik.com/words/licentious\">licentious.</a></p>\n\n<p>Licentious - adjective</p>\n\n<ol>\n  <li>Lacking moral discipline or ignoring legal restraint, especially in sexual conduct.</li>\n  <li>Having no regard for accepted rules or standards.</li>\n</ol>\n\n<p>And it became my word of the day.</p>\n",
+			"date_published": "2018-03-09T08:17:00-07:00",
 			"url": "http://www.barbic.com/2018/03/09/word-of-the.html"
 		},
 		
@@ -83,7 +93,7 @@
 			"id": "http://johnbarbic.micro.blog/2018/03/05/if-there-were.html",
 	      	
 			"content_html": "<p>If there were an Oscar for sleeping I’m pretty sure I could take the Best Side Sleep - Man On A Couch Category.</p>\n",
-			"date_published": "2018-03-05T08:39:00-06:00",
+			"date_published": "2018-03-05T07:39:00-07:00",
 			"url": "http://www.barbic.com/2018/03/05/if-there-were.html"
 		},
 		
@@ -91,7 +101,7 @@
 			"id": "http://johnbarbic.micro.blog/2018/03/04/my-first-born.html",
 	      	
 			"content_html": "<p>My first born is going to see Hamilton tonight.  There’ll be no living with miss “Young Hungry &amp; Scrappy” after this.  🇺🇸</p>\n",
-			"date_published": "2018-03-04T13:00:00-06:00",
+			"date_published": "2018-03-04T12:00:00-07:00",
 			"url": "http://www.barbic.com/2018/03/04/my-first-born.html"
 		},
 		
@@ -100,8 +110,8 @@
 	      	
 			"title": "The Mac Daddy",
 			
-			"content_html": "<p>I’m experimenting now with the phone app. Here I’m adding five photos to show how I made a Mac Daddy pizza.  I’m curious if I can add them here and edit the post and place text between them later.  In other words, how do multiple photos get organized in a single post and how can the author organize them if at all?  It’s an interesting trying to communicate with words and photos. It shows how the platform can impact the writing.  Support for photos sounds easy at first, but support for multiple photos leads interesting design decisions both for the platform and the user.  </p>\n\n<p>I’m not sure what right answer is when it comes to placement so this is a way of discovering how we can use micro.blog through the clever use of food porn. </p>\n\n<p>Awesome! So after you post multiple photos through the phone app, you can then edit the post on the web to interject prose inline, that is fantastic.  So what is a Mac Daddy?</p>\n\n<p>It begins by getting a plain take and bake cheese pizza, browning about 3/4 pound of ground beef, and then sprinkling that throughout the cheese.  I also add slices of onion.  Bake at 425 for 10 minutes.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/4e93f324f0.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>While the pie is baking, remove the core from an iceberg lettuce…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/032f2dea8a.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>…and chop that sucker up.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/b34acfc0c9.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>When the pie is done baking, use Thousand Island dressing to make a nice swirl of yumminess throughout the cheesy beefy oniony crust.  Then distribute the lettuce and add chopped tomatoes to your liking.  Add another swirl of Thousand Island to finish it off.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/b3564b1f19.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>The end result is the Mac Daddy.  So named because it tastes like a better version of a Big Mac.  It’s kid tested and perfect for movie nights.  Now, wasn’t this a fun way to see what you can do with muliple photos in a single post on micro.blog?</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/5b3cb60751.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-03-03T08:12:00-06:00",
+			"content_html": "<p>I’m experimenting now with the phone app. Here I’m adding five photos to show how I made a Mac Daddy pizza.  I’m curious if I can add them here and edit the post and place text between them later.  In other words, how do multiple photos get organized in a single post and how can the author organize them if at all?  It’s an interesting trying to communicate with words and photos. It shows how the platform can impact the writing.  Support for photos sounds easy at first, but support for multiple photos leads interesting design decisions both for the platform and the user.</p>\n\n<p>I’m not sure what right answer is when it comes to placement so this is a way of discovering how we can use micro.blog through the clever use of food porn.</p>\n\n<p>Awesome! So after you post multiple photos through the phone app, you can then edit the post on the web to interject prose inline, that is fantastic.  So what is a Mac Daddy?</p>\n\n<p>It begins by getting a plain take and bake cheese pizza, browning about 3/4 pound of ground beef, and then sprinkling that throughout the cheese.  I also add slices of onion.  Bake at 425 for 10 minutes.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/4e93f324f0.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>While the pie is baking, remove the core from an iceberg lettuce…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/032f2dea8a.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>…and chop that sucker up.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/b34acfc0c9.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>When the pie is done baking, use Thousand Island dressing to make a nice swirl of yumminess throughout the cheesy beefy oniony crust.  Then distribute the lettuce and add chopped tomatoes to your liking.  Add another swirl of Thousand Island to finish it off.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/b3564b1f19.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>The end result is the Mac Daddy.  So named because it tastes like a better version of a Big Mac.  It’s kid tested and perfect for movie nights.  Now, wasn’t this a fun way to see what you can do with muliple photos in a single post on micro.blog?</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/5b3cb60751.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-03-03T07:12:00-07:00",
 			"url": "http://www.barbic.com/2018/03/03/the-mac-daddy.html"
 		},
 		
@@ -111,7 +121,7 @@
 			"title": "Replacing the Battery in an Early 2013 MacBook Pro - End",
 			
 			"content_html": "<p>At the end of the second Ghostbusters movie Rick Moranis’s character Louis Tully has acquired a portable cyclotron and has been dutifully blasting away at the slime barrier around the museum when it finally explodes and frees the rest of the gang.  At one point someone turns and goes, “Hey, you’re a Ghostbuster!” And he just stands there nodding his head in this excited little way and goes, “I’m a Ghostbuster!”  <strong>That</strong> is the feeling you get when you pull something like this off.   The other bit that was exciting about doing this is actually breaking the equivalent of the 4th Wall and peering into the box itself.   I don’t miss PCs, but I do lament the fact that with mobile computing we rarely if ever get into the machine anymore.  I suppose it’s not unlike old gear heads lamenting the fact that they can’t turn newer cars into hot rods.  The fact is we’re becoming more removed from the very thing that makes software possible, but that is where it lives, right there, in the shot below.</p>\n\n<p>The new battery is in its place and 5 years of dust &amp; cruftage has been dutifully blown out of the chassis. I guess I’m a computer repairman now…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/7e78e07f90.jpg\" width=\"600\" height=\"349\" /></p>\n",
-			"date_published": "2018-03-02T09:17:00-06:00",
+			"date_published": "2018-03-02T08:17:00-07:00",
 			"url": "http://www.barbic.com/2018/03/02/151721.html"
 		},
 		
@@ -119,7 +129,7 @@
 			"id": "http://johnbarbic.micro.blog/2018/03/02/this-is-close.html",
 	      	
 			"content_html": "<p>This is close up of the battery connector socket after securing the battery board with two Torx screws.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/75f8347512.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-03-02T08:38:00-06:00",
+			"date_published": "2018-03-02T07:38:00-07:00",
 			"url": "http://www.barbic.com/2018/03/02/this-is-close.html"
 		},
 		
@@ -129,7 +139,7 @@
 			"title": "Replacing the Battery in an Early 2013 MacBook Pro - Close up of the keyboard ribbon cable",
 			
 			"content_html": "<p>This is a close up of where the ribbon cable is located in reference to the battery’s connector socket. Apart from this one location, you can pretty much pry your heart out as long as you do put too much stress on the battery cell itself or compress the floor of the bay to such a degree that you compromise the track pad housing.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/314aa2ca4e.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-03-02T08:31:00-06:00",
+			"date_published": "2018-03-02T07:31:00-07:00",
 			"url": "http://www.barbic.com/2018/03/02/replacing-the-battery.html"
 		},
 		
@@ -137,7 +147,7 @@
 			"id": "http://johnbarbic.micro.blog/2018/03/02/once-the-center.html",
 	      	
 			"content_html": "<p>Once the center cells are out the entire battery can be lifted out.  This is a shot of the bay after the battery is completely removed.  As you can see, there is little reason to disassemble the machine complete apart from an abundance of caution.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/592985f852.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-03-02T08:25:00-06:00",
+			"date_published": "2018-03-02T07:25:00-07:00",
 			"url": "http://www.barbic.com/2018/03/02/once-the-center.html"
 		},
 		
@@ -145,7 +155,7 @@
 			"id": "http://johnbarbic.micro.blog/2018/03/02/the-next-picture.html",
 	      	
 			"content_html": "<p>The next picture shows the second cell up and the key thing to note is the plastic wall that exists at the far end. That looks permenent, but it is actually part of the battery’s housing. It can be gently lifted out of the way and there is your  access the center cells.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/8f47bb0861.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-02T08:18:00-06:00",
+			"date_published": "2018-03-02T07:18:00-07:00",
 			"url": "http://www.barbic.com/2018/03/02/the-next-picture.html"
 		},
 		
@@ -154,8 +164,8 @@
 	      	
 			"title": "Replacing the Battery in an Early 2013 MacBook Pro - Start",
 			
-			"content_html": "<p>Once you have decided to take action, the biggest problem is determining how to actually go about it. I am not a hardware guy, but after some research, I came across the iFixit website and found <a href=\"https://www.ifixit.com/Guide/MacBook+Pro+15-Inch+Retina+Display+Early+2013+Battery+Replacement/90275\">this tutorial on battery replacement.</a>.  It looked crazy difficult to me, but I proceeded to purchase the <a href=\"https://www.ifixit.com/Store/Mac/MacBook-Pro-15-Inch-Retina-Mid-2012-Early-2013-Battery/IF117-047-4\">appropriate kit for my computer.</a>  The delivery took 5 days and I used that time to read and reread the tutorial.  After several reads, I read the comments in Step 4 - “Using the flat end of a spudger, gently pry the battery connector straight up out of its socket on the logic board.”  One commenter explained how he simply skipped the majority of the tutorial and had success.  Looking over the entire procedure it turns out that the majority of it involves taking the entire computer apart simply to prevent any chance of damaging the contents with the liquid adhesive remover.  While I waited for the kit to arrive I began rolling that particular thought around in my mind.</p>\n\n<p>The kit arrived just before I left for a weekend getaway and so the first thing I did was to leave my laptop running so as to drain the battery completely.  Upon my return, I resolved to take the short cut described in the comments.  If you ever do this and refer to the same tutorial, the steps I took were Step 1 through Step 4, Step 35 (very important), and then simply set about prying the battery out of its cradle.  This involved working from the outside in, prying up the two outermost cells on each side.  Using the spudger and the card it’s possible to work from the edges toward the center of each cell and break the adhesive bonds without use of the liquid adhesive remover.</p>\n\n<p>The picture shows the first cell I was able to pry up along with plastic card getting up under the second cell.  Note the, “Repair is noble.” Once I was able to get the first two up, I was confident enough to do the rest. I’m using the web version of micro.blog so I will need to show some additional pictures in separate posts, but lets end Part One here.  </p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/4a519656d3.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-01T09:42:00-06:00",
+			"content_html": "<p>Once you have decided to take action, the biggest problem is determining how to actually go about it. I am not a hardware guy, but after some research, I came across the iFixit website and found <a href=\"https://www.ifixit.com/Guide/MacBook+Pro+15-Inch+Retina+Display+Early+2013+Battery+Replacement/90275\">this tutorial on battery replacement.</a>.  It looked crazy difficult to me, but I proceeded to purchase the <a href=\"https://www.ifixit.com/Store/Mac/MacBook-Pro-15-Inch-Retina-Mid-2012-Early-2013-Battery/IF117-047-4\">appropriate kit for my computer.</a>  The delivery took 5 days and I used that time to read and reread the tutorial.  After several reads, I read the comments in Step 4 - “Using the flat end of a spudger, gently pry the battery connector straight up out of its socket on the logic board.”  One commenter explained how he simply skipped the majority of the tutorial and had success.  Looking over the entire procedure it turns out that the majority of it involves taking the entire computer apart simply to prevent any chance of damaging the contents with the liquid adhesive remover.  While I waited for the kit to arrive I began rolling that particular thought around in my mind.</p>\n\n<p>The kit arrived just before I left for a weekend getaway and so the first thing I did was to leave my laptop running so as to drain the battery completely.  Upon my return, I resolved to take the short cut described in the comments.  If you ever do this and refer to the same tutorial, the steps I took were Step 1 through Step 4, Step 35 (very important), and then simply set about prying the battery out of its cradle.  This involved working from the outside in, prying up the two outermost cells on each side.  Using the spudger and the card it’s possible to work from the edges toward the center of each cell and break the adhesive bonds without use of the liquid adhesive remover.</p>\n\n<p>The picture shows the first cell I was able to pry up along with plastic card getting up under the second cell.  Note the, “Repair is noble.” Once I was able to get the first two up, I was confident enough to do the rest. I’m using the web version of micro.blog so I will need to show some additional pictures in separate posts, but lets end Part One here.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/4a519656d3.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-01T08:42:00-07:00",
 			"url": "http://www.barbic.com/2018/03/01/154251.html"
 		},
 		
@@ -164,8 +174,8 @@
 	      	
 			"title": "Replacing the Battery in an Early 2013 MacBook Pro - Prologue",
 			
-			"content_html": "<p>I am going to share my experience replacing the battery in my Macbook Pro, and to do that properly I have written this prologue so you understand my perspective and why I was compelled to take the plunge.  This kind of operation is not for everyone and I think some might question why anyone would take the risk - so let me start right there before getting into it.</p>\n\n<p>Current owners of contemporary MacBook Pros are in an interesting spot.  Here, I am referring to those of us who bought the unibody version that included SSD hard drives almost exclusively.  In my case, I am specifically referring to an early 2013 Retina 15 inch MBP with a 2.7GHz Intel Core i7 processor with 500 GB hard drive that is my primary development machine.  I believe a fair number of us purchase Apple computers to enjoy the best experience and to claim a small measure of future proofing that is not available elsewhere.  Obviously, five years is decent life for any computer, but at this particular juncture our group is confronted with a stark reality - Apple took its eyes off the MacBook Pro in the intervening years and  while we might be ready to upgrade, we’re left wanting now.</p>\n\n<p>In my opinion, the latest version of the MacBook Pro is simply not up to the same standard as its ancestry.  Setting aside dongle hell, the revision to the key board and the absence of MagSafe are deal killers. First, like any professional, my muscle memory and feel for the laptop’s keys is acute. So if you’re going to remove a key, or change the feel of the keyboard and require me to relearn the layout of my work home, it better come with some study of the benefits which can be explained to me in no uncertain terms.  And Second, MagSafe. That little invention has saved me so many times.  Were I to purchase $4,000.00 replacement and see it fly into the ground because I tripped over the power cord (again) it would cause me so much grief that I might just quit the game entirely. </p>\n\n<p>And all of that written, I want to further preface this by asking you to imagine a loyal customer entering the Apple store at the Flatirons Mall just outside of Boulder Colorado to inquire about a simple battery replacement.  Imagine the brush off from some kid in a brightly colored genius t-shirt telling him that his computer is “vintage, if not obsolete,” and making every not so subtle effort to get him out the door as quickly as possible (I have never felt more unwelcome in an Apple store in my life).  Absolutely no awareness or sensitivity to the predicament this customer is in whatsoever, not even a passing desire to take his money for the work.  <em>“No, mister you are a pilgrim in an unholy land of shiny new things, and, you sir, are not wanted here. You only have two options, do it yourself or trust some third-party shop to fix your rig with whatever backup, wipe, get it fixed, and restore, delay that might entail…“</em> I was walking out of the there shaking my head, and I love Apple.  And I wish I could buy the latest MacBook Pro, but I just won’t do it.</p>\n\n<p>And one more thing…</p>\n\n<p>This “vintage, if not obsolete” machine of mine?  Oh patronizing young genius let me tell you a little about myself:  I’m what you call a full stack guy. On any given day I’m running a JVM and MySQL while also running an IDE, BBEdit, Navicat, Email, WhatsApp, iMessage, one or more MS Office Programs, Postmam, iTerm, and a browser with more tabs than any human being should ever have open at the same time, all while blissfully listening to iTunes continuously!  And that’s not when I also have a VM running Windows just so I can debug some one-off IE bug one of my users discovered. And this little rig runs <em>all of it</em> without observable delay.  Vintage, sure I accept that with pride.  Obsolete?  No sir, this keyboard has the feel of a well worn leather couch, and see this little magnetic doodad? It’s my own little super hero which has saved me so many tears I would sooner have you pry this <em>obsolete</em> machine from my cold dead hands than settle.  I am in this because Apple conditioned me to expect the absolute best and then delivered a squib.  No worries. I am not complaining, it happens to the best of us.  I’m still loyal.  <em>All</em> I wanted was a little help while waiting patiently for the day when I don’t have to settle.  That’s all.  If you would like to understand why anyone would take this sort of risk there are many reasons.  For me though, it’s because I refuse to settle.   </p>\n",
-			"date_published": "2018-02-28T20:57:00-06:00",
+			"content_html": "<p>I am going to share my experience replacing the battery in my Macbook Pro, and to do that properly I have written this prologue so you understand my perspective and why I was compelled to take the plunge.  This kind of operation is not for everyone and I think some might question why anyone would take the risk - so let me start right there before getting into it.</p>\n\n<p>Current owners of contemporary MacBook Pros are in an interesting spot.  Here, I am referring to those of us who bought the unibody version that included SSD hard drives almost exclusively.  In my case, I am specifically referring to an early 2013 Retina 15 inch MBP with a 2.7GHz Intel Core i7 processor with 500 GB hard drive that is my primary development machine.  I believe a fair number of us purchase Apple computers to enjoy the best experience and to claim a small measure of future proofing that is not available elsewhere.  Obviously, five years is decent life for any computer, but at this particular juncture our group is confronted with a stark reality - Apple took its eyes off the MacBook Pro in the intervening years and  while we might be ready to upgrade, we’re left wanting now.</p>\n\n<p>In my opinion, the latest version of the MacBook Pro is simply not up to the same standard as its ancestry.  Setting aside dongle hell, the revision to the key board and the absence of MagSafe are deal killers. First, like any professional, my muscle memory and feel for the laptop’s keys is acute. So if you’re going to remove a key, or change the feel of the keyboard and require me to relearn the layout of my work home, it better come with some study of the benefits which can be explained to me in no uncertain terms.  And Second, MagSafe. That little invention has saved me so many times.  Were I to purchase $4,000.00 replacement and see it fly into the ground because I tripped over the power cord (again) it would cause me so much grief that I might just quit the game entirely.</p>\n\n<p>And all of that written, I want to further preface this by asking you to imagine a loyal customer entering the Apple store at the Flatirons Mall just outside of Boulder Colorado to inquire about a simple battery replacement.  Imagine the brush off from some kid in a brightly colored genius t-shirt telling him that his computer is “vintage, if not obsolete,” and making every not so subtle effort to get him out the door as quickly as possible (I have never felt more unwelcome in an Apple store in my life).  Absolutely no awareness or sensitivity to the predicament this customer is in whatsoever, not even a passing desire to take his money for the work.  <em>“No, mister you are a pilgrim in an unholy land of shiny new things, and, you sir, are not wanted here. You only have two options, do it yourself or trust some third-party shop to fix your rig with whatever backup, wipe, get it fixed, and restore, delay that might entail…“</em> I was walking out of the there shaking my head, and I love Apple.  And I wish I could buy the latest MacBook Pro, but I just won’t do it.</p>\n\n<p>And one more thing…</p>\n\n<p>This “vintage, if not obsolete” machine of mine?  Oh patronizing young genius let me tell you a little about myself:  I’m what you call a full stack guy. On any given day I’m running a JVM and MySQL while also running an IDE, BBEdit, Navicat, Email, WhatsApp, iMessage, one or more MS Office Programs, Postmam, iTerm, and a browser with more tabs than any human being should ever have open at the same time, all while blissfully listening to iTunes continuously!  And that’s not when I also have a VM running Windows just so I can debug some one-off IE bug one of my users discovered. And this little rig runs <em>all of it</em> without observable delay.  Vintage, sure I accept that with pride.  Obsolete?  No sir, this keyboard has the feel of a well worn leather couch, and see this little magnetic doodad? It’s my own little super hero which has saved me so many tears I would sooner have you pry this <em>obsolete</em> machine from my cold dead hands than settle.  I am in this because Apple conditioned me to expect the absolute best and then delivered a squib.  No worries. I am not complaining, it happens to the best of us.  I’m still loyal.  <em>All</em> I wanted was a little help while waiting patiently for the day when I don’t have to settle.  That’s all.  If you would like to understand why anyone would take this sort of risk there are many reasons.  For me though, it’s because I refuse to settle.</p>\n",
+			"date_published": "2018-02-28T19:57:00-07:00",
 			"url": "http://www.barbic.com/2018/02/28/replacing-the-battery.html"
 		},
 		
@@ -173,15 +183,15 @@
 			"id": "http://johnbarbic.micro.blog/2018/02/28/music-another-one.html",
 	      	
 			"content_html": "<p>Music: Another one of the joys of being a dad.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/8777a87c32.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-27T19:30:00-06:00",
+			"date_published": "2018-02-27T18:30:00-07:00",
 			"url": "http://www.barbic.com/2018/02/27/music-another-one.html"
 		},
 		
 		{
 			"id": "http://johnbarbic.micro.blog/2018/02/27/radio-free-boulder.html",
 	      	
-			"content_html": "<p>Radio Free Boulder Colorado is back on the air.  Turns out that replacing a battery in an early 2013 is difficult, but doable.  And bonus - I think I have a topic to blog about this week. </p>\n",
-			"date_published": "2018-02-27T08:25:00-06:00",
+			"content_html": "<p>Radio Free Boulder Colorado is back on the air.  Turns out that replacing a battery in an early 2013 is difficult, but doable.  And bonus - I think I have a topic to blog about this week.</p>\n",
+			"date_published": "2018-02-27T07:25:00-07:00",
 			"url": "http://www.barbic.com/2018/02/27/radio-free-boulder.html"
 		},
 		
@@ -189,7 +199,7 @@
 			"id": "http://johnbarbic.micro.blog/2018/02/26/i-am-in.html",
 	      	
 			"content_html": "<p>I am in it now :-)</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/98812265f5.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-26T08:49:00-06:00",
+			"date_published": "2018-02-26T07:49:00-07:00",
 			"url": "http://www.barbic.com/2018/02/26/i-am-in.html"
 		},
 		
@@ -197,7 +207,7 @@
 			"id": "http://johnbarbic.micro.blog/2018/02/22/the-battery-replacement.html",
 	      	
 			"content_html": "<p>The battery replacement kit is out for delivery.  Now I just need to work up the courage to crack open a perfectly useable vintage/obsolete MBP and take its beating heart into my untrained hands.  💻</p>\n",
-			"date_published": "2018-02-22T12:02:00-06:00",
+			"date_published": "2018-02-22T11:02:00-07:00",
 			"url": "http://www.barbic.com/2018/02/22/the-battery-replacement.html"
 		},
 		
@@ -205,16 +215,8 @@
 			"id": "http://johnbarbic.micro.blog/2018/02/21/driving-in-today.html",
 	      	
 			"content_html": "<p>Driving in today the thermostat went from 3 degrees to 6 degrees.  Spring has come to Colorado.</p>\n",
-			"date_published": "2018-02-21T09:04:00-06:00",
+			"date_published": "2018-02-21T08:04:00-07:00",
 			"url": "http://www.barbic.com/2018/02/21/driving-in-today.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/02/20/apparently-i-live.html",
-	      	
-			"content_html": "<p>Apparently, I live in a Bob Ross painting.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/a887252b26.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-20T08:33:00-06:00",
-			"url": "http://www.barbic.com/2018/02/20/apparently-i-live.html"
 		}
 		
 	]
