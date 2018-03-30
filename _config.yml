@@ -30,3 +30,4 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Mountain"
 site_id: "1213"
+gems: ["jekyll-paginate"]
