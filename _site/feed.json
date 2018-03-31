@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/31/halftime-at-pleasantview.html",
+	      	
+			"content_html": "<p>Halftime at Pleasantview</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/890b7b6ac3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-31T17:39:00-06:00",
+			"url": "http://www.barbic.com/2018/03/31/halftime-at-pleasantview.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/31/i-love-it.html",
 	      	
 			"content_html": "<p>I love it when a release comes together like this.  Coffee and a snapshot for breakfast.</p>\n",
@@ -209,14 +217,6 @@
 			"content_html": "<p>I am in it now :-)</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/98812265f5.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-02-26T07:49:00-07:00",
 			"url": "http://www.barbic.com/2018/02/26/i-am-in.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/02/22/the-battery-replacement.html",
-	      	
-			"content_html": "<p>The battery replacement kit is out for delivery.  Now I just need to work up the courage to crack open a perfectly useable vintage/obsolete MBP and take its beating heart into my untrained hands.  💻</p>\n",
-			"date_published": "2018-02-22T11:02:00-07:00",
-			"url": "http://www.barbic.com/2018/02/22/the-battery-replacement.html"
 		}
 		
 	]
