@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/03/31/i-love-it.html",
+	      	
+			"content_html": "<p>I love it when a release comes together like this.  Coffee and a snapshot for breakfast.</p>\n",
+			"date_published": "2018-03-31T06:53:00-06:00",
+			"url": "http://www.barbic.com/2018/03/31/i-love-it.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/03/30/shakespeare-explains-the.html",
 	      	
 			"title": "Henslowe explains the business of software development ",
@@ -209,14 +217,6 @@
 			"content_html": "<p>The battery replacement kit is out for delivery.  Now I just need to work up the courage to crack open a perfectly useable vintage/obsolete MBP and take its beating heart into my untrained hands.  💻</p>\n",
 			"date_published": "2018-02-22T11:02:00-07:00",
 			"url": "http://www.barbic.com/2018/02/22/the-battery-replacement.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/02/21/driving-in-today.html",
-	      	
-			"content_html": "<p>Driving in today the thermostat went from 3 degrees to 6 degrees.  Spring has come to Colorado.</p>\n",
-			"date_published": "2018-02-21T08:04:00-07:00",
-			"url": "http://www.barbic.com/2018/02/21/driving-in-today.html"
 		}
 		
 	]
