@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/04/08/very-windy-going.html",
+	      	
+			"content_html": "<p>Very windy going this afternoon..</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/ff82ffa204.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-04-08T13:38:00-06:00",
+			"url": "http://www.barbic.com/2018/04/08/very-windy-going.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/04/01/nice-easter-cairn.html",
 	      	
 			"content_html": "<p>“Nice Easter cairn you have there.” These are the words that came out of my mouth this afternoon.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/ad6ce9d48f.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -209,14 +217,6 @@
 			"content_html": "<p>Music: Another one of the joys of being a dad.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/8777a87c32.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-27T18:30:00-07:00",
 			"url": "http://www.barbic.com/2018/02/27/music-another-one.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/02/27/radio-free-boulder.html",
-	      	
-			"content_html": "<p>Radio Free Boulder Colorado is back on the air.  Turns out that replacing a battery in an early 2013 is difficult, but doable.  And bonus - I think I have a topic to blog about this week.</p>\n",
-			"date_published": "2018-02-27T07:25:00-07:00",
-			"url": "http://www.barbic.com/2018/02/27/radio-free-boulder.html"
 		}
 		
 	]
