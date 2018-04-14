@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-31 17:39 -0600
+date: 2018-03-31 17:39:04 -0600
 guid: http://johnbarbic.micro.blog/2018/03/31/halftime-at-pleasantview.html
 ---
 Halftime at Pleasant View
