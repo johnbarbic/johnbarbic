@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-05 09:25 -0600
+date: 2017-12-05 09:25:29 -0600
 guid: http://johnbarbic.micro.blog/2017/12/05/moon-over-table.html
 ---
 Moon over Table Mountain
