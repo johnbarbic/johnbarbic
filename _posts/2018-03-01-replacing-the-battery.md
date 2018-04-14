@@ -3,7 +3,7 @@ layout: post
 title: "Replacing the Battery in an Early 2013 MacBook Pro - Prologue"
 microblog: false
 audio: 
-date: 2018-02-28 20:57 -0600
+date: 2018-02-28 20:57:15 -0600
 guid: http://johnbarbic.micro.blog/2018/03/01/replacing-the-battery.html
 ---
 I am going to share my experience replacing the battery in my Macbook Pro, and to do that properly I have written this prologue so you understand my perspective and why I was compelled to take the plunge.  This kind of operation is not for everyone and I think some might question why anyone would take the risk - so let me start right there before getting into it.
