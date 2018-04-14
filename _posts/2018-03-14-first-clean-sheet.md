@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-13 19:44 -0600
+date: 2018-03-13 19:44:52 -0600
 guid: http://johnbarbic.micro.blog/2018/03/14/first-clean-sheet.html
 ---
 First clean sheet of the new season
