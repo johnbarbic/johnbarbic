@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-01 14:51 -0600
+date: 2018-04-01 14:51:09 -0600
 guid: http://johnbarbic.micro.blog/2018/04/01/nice-easter-cairn.html
 ---
 "Nice Easter cairn you have there." These are the words that came out of my mouth this afternoon. 
