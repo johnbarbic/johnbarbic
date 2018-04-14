@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-18 13:45 -0600
+date: 2018-03-18 13:45:48 -0600
 guid: http://johnbarbic.micro.blog/2018/03/18/walking-off-the.html
 ---
 Walking off the previous post.
