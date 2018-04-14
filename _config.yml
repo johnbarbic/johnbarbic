@@ -15,6 +15,7 @@ baseurl: ""
 url: "http://www.barbic.com"
 markdown: "kramdown"
 username: "johnbarbic"
+microblog_user: "johnbarbic"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "John Barbic"
@@ -31,3 +32,5 @@ paginate_path: "/page/:num/"
 timezone: "US/Mountain"
 site_id: "1213"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
