@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-28 18:54 -0600
+date: 2017-07-28 18:54:39 -0600
 guid: http://johnbarbic.micro.blog/2017/07/29/many-chickens-died.html
 ---
 Many chickens died to bring you this update...
