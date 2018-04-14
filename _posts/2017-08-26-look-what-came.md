@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-08-26 10:21 -0600
+date: 2017-08-26 10:21:33 -0600
 guid: http://johnbarbic.micro.blog/2017/08/26/look-what-came.html
 ---
 Look what came in the mail today.  Clearly my addiction requires some sort of intervention.
