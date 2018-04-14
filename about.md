@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 1
-date: 2018-03-24 13:03 -0600
+date: 2018-03-24 13:03:10 -0600
 ---
 I'm a software guy living in Colorado. 
 
