@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-12-24 20:13 -0600
+date: 2017-12-24 20:13:18 -0600
 guid: http://johnbarbic.micro.blog/2017/12/25/christmas-eve.html
 ---
 Christmas Eve...
