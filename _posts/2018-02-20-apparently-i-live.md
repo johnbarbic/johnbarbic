@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-20 08:33 -0600
+date: 2018-02-20 08:33:48 -0600
 guid: http://johnbarbic.micro.blog/2018/02/20/apparently-i-live.html
 ---
 Apparently, I live in a Bob Ross painting.
