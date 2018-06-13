@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/06/13/steely-dan.html",
+	      	
+			"content_html": "<p>Steely Dan</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/205c1f04c3.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-12T22:16:39-06:00",
+			"url": "http://www.barbic.com/2018/06/12/steely-dan.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/06/08/where-is-home.html",
 	      	
 			"content_html": "<p>“Where is home? Most of us are born with the answer—others have to sift through the pieces.” - AB</p>\n",
@@ -201,16 +209,6 @@
 			"content_html": "<p>I’m experimenting now with the phone app. Here I’m adding five photos to show how I made a Mac Daddy pizza.  I’m curious if I can add them here and edit the post and place text between them later.  In other words, how do multiple photos get organized in a single post and how can the author organize them if at all?  It’s an interesting trying to communicate with words and photos. It shows how the platform can impact the writing.  Support for photos sounds easy at first, but support for multiple photos leads interesting design decisions both for the platform and the user.</p>\n\n<p>I’m not sure what right answer is when it comes to placement so this is a way of discovering how we can use micro.blog through the clever use of food porn.</p>\n\n<p>Awesome! So after you post multiple photos through the phone app, you can then edit the post on the web to interject prose inline, that is fantastic.  So what is a Mac Daddy?</p>\n\n<p>It begins by getting a plain take and bake cheese pizza, browning about 3/4 pound of ground beef, and then sprinkling that throughout the cheese.  I also add slices of onion.  Bake at 425 for 10 minutes.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/4e93f324f0.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>While the pie is baking, remove the core from an iceberg lettuce…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/032f2dea8a.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>…and chop that sucker up.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/b34acfc0c9.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>When the pie is done baking, use Thousand Island dressing to make a nice swirl of yumminess throughout the cheesy beefy oniony crust.  Then distribute the lettuce and add chopped tomatoes to your liking.  Add another swirl of Thousand Island to finish it off.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/b3564b1f19.jpg\" width=\"599\" height=\"600\" /></p>\n\n<p>The end result is the Mac Daddy.  So named because it tastes like a better version of a Big Mac.  It’s kid tested and perfect for movie nights.  Now, wasn’t this a fun way to see what you can do with muliple photos in a single post on micro.blog?</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/5b3cb60751.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-03-03T07:12:29-07:00",
 			"url": "http://www.barbic.com/2018/03/03/the-mac-daddy.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/03/02/151721.html",
-	      	
-			"title": "Replacing the Battery in an Early 2013 MacBook Pro - End",
-			
-			"content_html": "<p>At the end of the second Ghostbusters movie Rick Moranis’s character Louis Tully has acquired a portable cyclotron and has been dutifully blasting away at the slime barrier around the museum when it finally explodes and frees the rest of the gang.  At one point someone turns and goes, “Hey, you’re a Ghostbuster!” And he just stands there nodding his head in this excited little way and goes, “I’m a Ghostbuster!”  <strong>That</strong> is the feeling you get when you pull something like this off.   The other bit that was exciting about doing this is actually breaking the equivalent of the 4th Wall and peering into the box itself.   I don’t miss PCs, but I do lament the fact that with mobile computing we rarely if ever get into the machine anymore.  I suppose it’s not unlike old gear heads lamenting the fact that they can’t turn newer cars into hot rods.  The fact is we’re becoming more removed from the very thing that makes software possible, but that is where it lives, right there, in the shot below.</p>\n\n<p>The new battery is in its place and 5 years of dust &amp; cruftage has been dutifully blown out of the chassis. I guess I’m a computer repairman now…</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/7e78e07f90.jpg\" width=\"600\" height=\"349\" /></p>\n",
-			"date_published": "2018-03-02T08:17:21-07:00",
-			"url": "http://www.barbic.com/2018/03/02/151721.html"
 		}
 		
 	]
