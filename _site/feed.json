@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/06/22/summer-begins.html",
+	      	
+			"content_html": "<p>Summer begins</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/f05295589f.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-06-22T05:36:02-06:00",
+			"url": "http://www.barbic.com/2018/06/22/summer-begins.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/06/17/my-kids-really.html",
 	      	
 			"content_html": "<p>My kids really know how to do Father’s Day right.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/d51e813439.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>If there were an Oscar for sleeping I’m pretty sure I could take the Best Side Sleep - Man On A Couch Category.</p>\n",
 			"date_published": "2018-03-05T07:39:01-07:00",
 			"url": "http://www.barbic.com/2018/03/05/if-there-were.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/03/04/my-first-born.html",
-	      	
-			"content_html": "<p>My first born is going to see Hamilton tonight.  There’ll be no living with miss “Young Hungry &amp; Scrappy” after this.  🇺🇸</p>\n",
-			"date_published": "2018-03-04T12:00:57-07:00",
-			"url": "http://www.barbic.com/2018/03/04/my-first-born.html"
 		}
 		
 	]
