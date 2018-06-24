@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/06/24/a-few-pictures.html",
+	      	
+			"content_html": "<p>A few pictures from Sunday.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/c72580177b.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.barbic.com/uploads/2018/a7a7bf8202.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.barbic.com/uploads/2018/3fe965ba4d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-24T11:16:20-06:00",
+			"url": "http://www.barbic.com/2018/06/24/a-few-pictures.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/06/22/summer-begins.html",
 	      	
 			"content_html": "<p>Summer begins</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/f05295589f.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -199,14 +207,6 @@
 			"content_html": "<p>Reading this morning I came upon this word, <a href=\"https://www.wordnik.com/words/licentious\">licentious.</a></p>\n\n<p>Licentious - adjective</p>\n\n<ol>\n  <li>Lacking moral discipline or ignoring legal restraint, especially in sexual conduct.</li>\n  <li>Having no regard for accepted rules or standards.</li>\n</ol>\n\n<p>And it became my word of the day.</p>\n",
 			"date_published": "2018-03-09T08:17:02-07:00",
 			"url": "http://www.barbic.com/2018/03/09/word-of-the.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/03/05/if-there-were.html",
-	      	
-			"content_html": "<p>If there were an Oscar for sleeping I’m pretty sure I could take the Best Side Sleep - Man On A Couch Category.</p>\n",
-			"date_published": "2018-03-05T07:39:01-07:00",
-			"url": "http://www.barbic.com/2018/03/05/if-there-were.html"
 		}
 		
 	]
