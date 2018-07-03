@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/07/03/if-innovation-is.html",
+	      	
+			"content_html": "<p><a href=\"https://medium.learningbyshipping.com/intel-disruption-594f806cfc21\">“… if innovation is focused on first and foremost being proprietary vs solving problems people have, then I think you’ll always run into trouble.”</a>  - Steven Sinofsky (Hat tip: Daring Fireball)</p>\n",
+			"date_published": "2018-07-03T08:28:52-06:00",
+			"url": "http://www.barbic.com/2018/07/03/if-innovation-is.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/07/02/ways-to-think.html",
 	      	
 			"content_html": "<p><a href=\"https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy\">Ways to think about machine learning</a></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>First clean sheet of the new season</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/b3cecfbcf0.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.barbic.com/uploads/2018/8c648f2e1f.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-03-13T19:44:52-06:00",
 			"url": "http://www.barbic.com/2018/03/13/first-clean-sheet.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/03/12/i-want-that.html",
-	      	
-			"content_html": "<p>I. Want. That. Hour. Back.</p>\n",
-			"date_published": "2018-03-12T07:43:29-06:00",
-			"url": "http://www.barbic.com/2018/03/12/i-want-that.html"
 		}
 		
 	]
