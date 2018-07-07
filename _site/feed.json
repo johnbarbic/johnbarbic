@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/07/07/waking-up-to.html",
+	      	
+			"content_html": "<p>Waking up to Stage One of The Tour and diving straight into England vs Sweden.  The coffee seems extra sweet this morning.</p>\n",
+			"date_published": "2018-07-07T08:32:02-06:00",
+			"url": "http://www.barbic.com/2018/07/07/waking-up-to.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/07/05/the-crew-and.html",
 	      	
 			"content_html": "<p>The Crew and The Secretary of Defense.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/1a04ad4323.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.barbic.com/uploads/2018/47bc73d3e7.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Walking off the previous post.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/16d19a31ac.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-03-18T13:45:48-06:00",
 			"url": "http://www.barbic.com/2018/03/18/walking-off-the.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/03/18/trying-to-answer.html",
-	      	
-			"content_html": "<p>Trying to answer the question, “What can dad do with leftover meatballs and spaghetti sauce?”</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/ecf51c4655.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-03-18T10:38:17-06:00",
-			"url": "http://www.barbic.com/2018/03/18/trying-to-answer.html"
 		}
 		
 	]
