@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/07/11/here-is-the.html",
+	      	
+			"content_html": "<p>Here is the thing I’ve found about linting, when everything I write is formatted correctly for me, I find myself less concerned about the nature of indentation.</p>\n",
+			"date_published": "2018-07-11T07:31:24-06:00",
+			"url": "http://www.barbic.com/2018/07/11/here-is-the.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/07/07/waking-up-to.html",
 	      	
 			"content_html": "<p>Waking up to Stage One of The Tour and diving straight into England vs Sweden.  The coffee seems extra sweet this morning.</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p><a href=\"https://dancohen.org/2018/03/21/back-to-the-blog/\">Back to the Blog</a> - hat tip <a href=\"https://kottke.org\">Jason Kottke</a></p>\n",
 			"date_published": "2018-03-24T13:02:01-06:00",
 			"url": "http://www.barbic.com/2018/03/24/back-to-the.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/03/18/walking-off-the.html",
-	      	
-			"content_html": "<p>Walking off the previous post.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/16d19a31ac.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-03-18T13:45:48-06:00",
-			"url": "http://www.barbic.com/2018/03/18/walking-off-the.html"
 		}
 		
 	]
