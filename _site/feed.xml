@@ -4,8 +4,17 @@
     <title>John Barbic</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/johnbarbic&quot;&gt;@johnbarbic on Micro.blog&lt;/a&gt;.</description>
     <link>http://www.barbic.com/</link>
-    <pubDate>Sat, 07 Jul 2018 08:32:05 -0600</pubDate>
-    <lastBuildDate>Sat, 07 Jul 2018 08:32:05 -0600</lastBuildDate>
+    <pubDate>Wed, 11 Jul 2018 07:31:26 -0600</pubDate>
+    <lastBuildDate>Wed, 11 Jul 2018 07:31:26 -0600</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Here is the thing I’ve found about linting, when everything I write is formatted correctly for me, I find myself less concerned about the nature of indentation.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Jul 2018 07:31:24 -0600</pubDate>
+        <link>http://www.barbic.com/2018/07/11/here-is-the.html</link>
+        <guid isPermaLink="true">http://johnbarbic.micro.blog/2018/07/11/here-is-the.html</guid>
+      </item>
     
       <item>
       	
@@ -573,17 +582,6 @@
         <pubDate>Fri, 02 Feb 2018 08:54:28 -0700</pubDate>
         <link>http://www.barbic.com/2018/02/02/when-two-tribes.html</link>
         <guid isPermaLink="true">http://johnbarbic.micro.blog/2018/02/02/when-two-tribes.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Wall of beer&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.barbic.com/uploads/2018/4d59c99aef.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 25 Jan 2018 18:03:23 -0700</pubDate>
-        <link>http://www.barbic.com/2018/01/25/wall-of-beer.html</link>
-        <guid isPermaLink="true">http://johnbarbic.micro.blog/2018/01/26/wall-of-beer.html</guid>
       </item>
     
   </channel>
