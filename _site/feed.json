@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/07/29/men-on-the.html",
+	      	
+			"content_html": "<p>Men on the Mesa.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/98d551f959.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-07-29T11:43:30-06:00",
+			"url": "http://www.barbic.com/2018/07/29/men-on-the.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/07/24/how-ecommerce-is.html",
 	      	
 			"title": "How E-Commerce Is Transforming Rural China",
@@ -197,16 +205,6 @@
 			"content_html": "<p>I love it when a release comes together like this.  Coffee and a snapshot for breakfast.</p>\n",
 			"date_published": "2018-03-31T06:53:04-06:00",
 			"url": "http://www.barbic.com/2018/03/31/i-love-it.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/03/30/shakespeare-explains-the.html",
-	      	
-			"title": "Henslowe explains the business of software development ",
-			
-			"content_html": "<p><strong>Henslowe:</strong> Mr. Fennyman, allow me to explain about the software business. The natural condition is one of insurmountable obstacles on the road to imminent disaster.</p>\n\n<p><strong>Fennyman:</strong> So what do we do?</p>\n\n<p><strong>Henslowe:</strong> Nothing. Strangely enough, it all turns out well.</p>\n\n<p><strong>Fennyman:</strong> How?</p>\n\n<p><strong>Henslowe:</strong> I don’t know. It’s a mystery.</p>\n",
-			"date_published": "2018-03-30T10:07:12-06:00",
-			"url": "http://www.barbic.com/2018/03/30/shakespeare-explains-the.html"
 		}
 		
 	]
