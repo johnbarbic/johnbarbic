@@ -1,0 +1,821 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "John Barbic",
+	"home_page_url": "http://www.barbic.com/",
+	"feed_url": "http://www.barbic.com/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/30/happy-boi.html",
+	      	
+			"content_text": "Happy boi\n\n\n",
+			"date_published": "2018-07-29T20:34:16-06:00",
+			"url": "http://www.barbic.com/2018/07/29/happy-boi.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/29/men-on-the.html",
+	      	
+			"content_text": "Men on the Mesa.\n\n\n",
+			"date_published": "2018-07-29T11:43:30-06:00",
+			"url": "http://www.barbic.com/2018/07/29/men-on-the.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/24/how-ecommerce-is.html",
+	      	
+			"title": "How E-Commerce Is Transforming Rural China",
+			
+			"content_text": "“Whereas Xia had some connection to nearly everyone in Xinhuang...",
+			"date_published": "2018-07-24T07:31:25-06:00",
+			"url": "http://www.barbic.com/2018/07/24/how-ecommerce-is.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/21/sometimes-the-trail.html",
+	      	
+			"content_text": "Sometimes the trail can get a little tricky.\n\n\n",
+			"date_published": "2018-07-21T17:59:45-06:00",
+			"url": "http://www.barbic.com/2018/07/21/sometimes-the-trail.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/21/chris-your-dinner.html",
+	      	
+			"content_text": "“Chris, your dinner is served.”\n\n\n",
+			"date_published": "2018-07-20T18:35:07-06:00",
+			"url": "http://www.barbic.com/2018/07/20/chris-your-dinner.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/15/our-crew-for.html",
+	      	
+			"content_text": "Our crew for the 2018 Donor Dash.\n\n\n",
+			"date_published": "2018-07-15T07:42:51-06:00",
+			"url": "http://www.barbic.com/2018/07/15/our-crew-for.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/11/here-is-the.html",
+	      	
+			"content_text": "Here is the thing I’ve found about linting, when everything...",
+			"date_published": "2018-07-11T07:31:24-06:00",
+			"url": "http://www.barbic.com/2018/07/11/here-is-the.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/07/waking-up-to.html",
+	      	
+			"content_text": "Waking up to Stage One of The Tour and diving...",
+			"date_published": "2018-07-07T08:32:02-06:00",
+			"url": "http://www.barbic.com/2018/07/07/waking-up-to.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/05/the-crew-and.html",
+	      	
+			"content_text": "The Crew and The Secretary of Defense.\n\n\n",
+			"date_published": "2018-07-04T20:07:07-06:00",
+			"url": "http://www.barbic.com/2018/07/04/the-crew-and.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/03/if-innovation-is.html",
+	      	
+			"content_text": "“… if innovation is focused on first and foremost being...",
+			"date_published": "2018-07-03T08:28:52-06:00",
+			"url": "http://www.barbic.com/2018/07/03/if-innovation-is.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/07/02/ways-to-think.html",
+	      	
+			"content_text": "Ways to think about machine learning\n",
+			"date_published": "2018-07-02T07:40:16-06:00",
+			"url": "http://www.barbic.com/2018/07/02/ways-to-think.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/06/24/a-few-pictures.html",
+	      	
+			"content_text": "A few pictures from Sunday.\n\n\n",
+			"date_published": "2018-06-24T11:16:20-06:00",
+			"url": "http://www.barbic.com/2018/06/24/a-few-pictures.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/06/22/summer-begins.html",
+	      	
+			"content_text": "Summer begins\n\n\n",
+			"date_published": "2018-06-22T05:36:02-06:00",
+			"url": "http://www.barbic.com/2018/06/22/summer-begins.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/06/17/my-kids-really.html",
+	      	
+			"content_text": "My kids really know how to do Father’s Day right....",
+			"date_published": "2018-06-17T07:25:09-06:00",
+			"url": "http://www.barbic.com/2018/06/17/my-kids-really.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/06/13/steely-dan.html",
+	      	
+			"content_text": "Steely Dan\n\n\n",
+			"date_published": "2018-06-12T22:16:39-06:00",
+			"url": "http://www.barbic.com/2018/06/12/steely-dan.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/06/08/where-is-home.html",
+	      	
+			"content_text": "“Where is home? Most of us are born with the...",
+			"date_published": "2018-06-08T15:48:07-06:00",
+			"url": "http://www.barbic.com/2018/06/08/where-is-home.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/05/25/a-baby-jalapeo.html",
+	      	
+			"content_text": "A baby jalapeño!\n\n\n",
+			"date_published": "2018-05-24T18:30:39-06:00",
+			"url": "http://www.barbic.com/2018/05/24/a-baby-jalapeo.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/05/21/from-the-year.html",
+	      	
+			"content_text": "From 1996, The Year on the Net\n",
+			"date_published": "2018-05-21T07:24:08-06:00",
+			"url": "http://www.barbic.com/2018/05/21/from-the-year.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/05/13/mothers-day-at.html",
+	      	
+			"content_text": "Mother’s Day at the Mesa.\n\n\n",
+			"date_published": "2018-05-13T13:49:34-06:00",
+			"url": "http://www.barbic.com/2018/05/13/mothers-day-at.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/05/12/my-hero.html",
+	      	
+			"content_text": "My hero.\n\n\n",
+			"date_published": "2018-05-12T14:30:31-06:00",
+			"url": "http://www.barbic.com/2018/05/12/my-hero.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/04/14/213354.html",
+	      	
+			"content_text": "It’s a beautiful day II.\n\n\n",
+			"date_published": "2018-04-14T15:33:54-06:00",
+			"url": "http://www.barbic.com/2018/04/14/213354.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/04/14/its-a-beautiful.html",
+	      	
+			"content_text": "It’s a beautiful day.\n\n\n",
+			"date_published": "2018-04-14T13:50:38-06:00",
+			"url": "http://www.barbic.com/2018/04/14/its-a-beautiful.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/04/08/very-windy-going.html",
+	      	
+			"content_text": "Very windy going this afternoon..\n\n\n",
+			"date_published": "2018-04-08T13:38:50-06:00",
+			"url": "http://www.barbic.com/2018/04/08/very-windy-going.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/04/01/nice-easter-cairn.html",
+	      	
+			"content_text": "“Nice Easter cairn you have there.” These are the words...",
+			"date_published": "2018-04-01T14:51:09-06:00",
+			"url": "http://www.barbic.com/2018/04/01/nice-easter-cairn.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/31/halftime-at-pleasantview.html",
+	      	
+			"content_text": "Halftime at Pleasant View\n\n\n",
+			"date_published": "2018-03-31T17:39:04-06:00",
+			"url": "http://www.barbic.com/2018/03/31/halftime-at-pleasantview.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/31/i-love-it.html",
+	      	
+			"content_text": "I love it when a release comes together like this....",
+			"date_published": "2018-03-31T06:53:04-06:00",
+			"url": "http://www.barbic.com/2018/03/31/i-love-it.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/30/shakespeare-explains-the.html",
+	      	
+			"title": "Henslowe explains the business of software development ",
+			
+			"content_text": "Henslowe: Mr. Fennyman, allow me to explain about the software...",
+			"date_published": "2018-03-30T10:07:12-06:00",
+			"url": "http://www.barbic.com/2018/03/30/shakespeare-explains-the.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/29/spring.html",
+	      	
+			"content_text": "“Spring”\n\n\n",
+			"date_published": "2018-03-29T07:56:36-06:00",
+			"url": "http://www.barbic.com/2018/03/29/spring.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/27/the-view-from.html",
+	      	
+			"content_text": "The view from my window this morning.\n\n\n",
+			"date_published": "2018-03-27T07:12:18-06:00",
+			"url": "http://www.barbic.com/2018/03/27/the-view-from.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/25/boulder-colorado-clouds.html",
+	      	
+			"content_text": "Boulder, Colorado. Clouds kissing the top of Longs Peak in...",
+			"date_published": "2018-03-25T14:15:28-06:00",
+			"url": "http://www.barbic.com/2018/03/25/boulder-colorado-clouds.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/24/back-to-the.html",
+	      	
+			"content_text": "Back to the Blog - hat tip Jason Kottke\n",
+			"date_published": "2018-03-24T13:02:01-06:00",
+			"url": "http://www.barbic.com/2018/03/24/back-to-the.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/18/walking-off-the.html",
+	      	
+			"content_text": "Walking off the previous post.\n\n\n",
+			"date_published": "2018-03-18T13:45:48-06:00",
+			"url": "http://www.barbic.com/2018/03/18/walking-off-the.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/18/trying-to-answer.html",
+	      	
+			"content_text": "Trying to answer the question, “What can dad do with...",
+			"date_published": "2018-03-18T10:38:17-06:00",
+			"url": "http://www.barbic.com/2018/03/18/trying-to-answer.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/14/first-clean-sheet.html",
+	      	
+			"content_text": "First clean sheet of the new season\n\n\n",
+			"date_published": "2018-03-13T19:44:52-06:00",
+			"url": "http://www.barbic.com/2018/03/13/first-clean-sheet.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/12/i-want-that.html",
+	      	
+			"content_text": "I. Want. That. Hour. Back.\n",
+			"date_published": "2018-03-12T07:43:29-06:00",
+			"url": "http://www.barbic.com/2018/03/12/i-want-that.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/09/word-of-the.html",
+	      	
+			"title": "Word of the day - Licentious",
+			
+			"content_text": "Reading this morning I came upon this word, licentious. Licentious...",
+			"date_published": "2018-03-09T08:17:02-07:00",
+			"url": "http://www.barbic.com/2018/03/09/word-of-the.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/05/if-there-were.html",
+	      	
+			"content_text": "If there were an Oscar for sleeping I’m pretty sure...",
+			"date_published": "2018-03-05T07:39:01-07:00",
+			"url": "http://www.barbic.com/2018/03/05/if-there-were.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/04/my-first-born.html",
+	      	
+			"content_text": "My first born is going to see Hamilton tonight. There’ll...",
+			"date_published": "2018-03-04T12:00:57-07:00",
+			"url": "http://www.barbic.com/2018/03/04/my-first-born.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/03/the-mac-daddy.html",
+	      	
+			"title": "The Mac Daddy",
+			
+			"content_text": "I’m experimenting now with the phone app. Here I’m adding...",
+			"date_published": "2018-03-03T07:12:29-07:00",
+			"url": "http://www.barbic.com/2018/03/03/the-mac-daddy.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/151721.html",
+	      	
+			"title": "Replacing the Battery in an Early 2013 MacBook Pro - End",
+			
+			"content_text": "At the end of the second Ghostbusters movie Rick Moranis’s...",
+			"date_published": "2018-03-02T08:17:21-07:00",
+			"url": "http://www.barbic.com/2018/03/02/151721.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/this-is-close.html",
+	      	
+			"content_text": "This is close up of the battery connector socket after...",
+			"date_published": "2018-03-02T07:38:49-07:00",
+			"url": "http://www.barbic.com/2018/03/02/this-is-close.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/replacing-the-battery.html",
+	      	
+			"title": "Replacing the Battery in an Early 2013 MacBook Pro - Close up of the keyboard ribbon cable",
+			
+			"content_text": "This is a close up of where the ribbon cable...",
+			"date_published": "2018-03-02T07:31:44-07:00",
+			"url": "http://www.barbic.com/2018/03/02/replacing-the-battery.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/once-the-center.html",
+	      	
+			"content_text": "Once the center cells are out the entire battery can...",
+			"date_published": "2018-03-02T07:25:58-07:00",
+			"url": "http://www.barbic.com/2018/03/02/once-the-center.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/02/the-next-picture.html",
+	      	
+			"content_text": "The next picture shows the second cell up and the...",
+			"date_published": "2018-03-02T07:18:17-07:00",
+			"url": "http://www.barbic.com/2018/03/02/the-next-picture.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/01/154251.html",
+	      	
+			"title": "Replacing the Battery in an Early 2013 MacBook Pro - Start",
+			
+			"content_text": "Once you have decided to take action, the biggest problem...",
+			"date_published": "2018-03-01T08:42:51-07:00",
+			"url": "http://www.barbic.com/2018/03/01/154251.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/03/01/replacing-the-battery.html",
+	      	
+			"title": "Replacing the Battery in an Early 2013 MacBook Pro - Prologue",
+			
+			"content_text": "I am going to share my experience replacing the battery...",
+			"date_published": "2018-02-28T19:57:15-07:00",
+			"url": "http://www.barbic.com/2018/02/28/replacing-the-battery.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/28/music-another-one.html",
+	      	
+			"content_text": "Music: Another one of the joys of being a dad....",
+			"date_published": "2018-02-27T18:30:56-07:00",
+			"url": "http://www.barbic.com/2018/02/27/music-another-one.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/27/radio-free-boulder.html",
+	      	
+			"content_text": "Radio Free Boulder Colorado is back on the air. Turns...",
+			"date_published": "2018-02-27T07:25:43-07:00",
+			"url": "http://www.barbic.com/2018/02/27/radio-free-boulder.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/26/i-am-in.html",
+	      	
+			"content_text": "I am in it now :-)\n\n\n",
+			"date_published": "2018-02-26T07:49:27-07:00",
+			"url": "http://www.barbic.com/2018/02/26/i-am-in.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/22/the-battery-replacement.html",
+	      	
+			"content_text": "The battery replacement kit is out for delivery. Now I...",
+			"date_published": "2018-02-22T11:02:52-07:00",
+			"url": "http://www.barbic.com/2018/02/22/the-battery-replacement.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/21/driving-in-today.html",
+	      	
+			"content_text": "Driving in today the thermostat went from 3 degrees to...",
+			"date_published": "2018-02-21T08:04:45-07:00",
+			"url": "http://www.barbic.com/2018/02/21/driving-in-today.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/20/apparently-i-live.html",
+	      	
+			"content_text": "Apparently, I live in a Bob Ross painting.\n\n\n",
+			"date_published": "2018-02-20T07:33:48-07:00",
+			"url": "http://www.barbic.com/2018/02/20/apparently-i-live.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/18/i-noticed-a.html",
+	      	
+			"content_text": "I noticed a new favicon appeared on my hosted site...",
+			"date_published": "2018-02-18T14:16:38-07:00",
+			"url": "http://www.barbic.com/2018/02/18/i-noticed-a.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/18/so-i-walked.html",
+	      	
+			"content_text": "I walked into my local Apple store today to see...",
+			"date_published": "2018-02-18T13:11:54-07:00",
+			"url": "http://www.barbic.com/2018/02/18/so-i-walked.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/06/today-i-witnessed.html",
+	      	
+			"content_text": "Today I witnessed Starman sitting in his Tesla on the...",
+			"date_published": "2018-02-06T15:57:53-07:00",
+			"url": "http://www.barbic.com/2018/02/06/today-i-witnessed.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/02/02/when-two-tribes.html",
+	      	
+			"content_text": "When Two Tribes Go To War - Andrew Sullivan. +1...",
+			"date_published": "2018-02-02T08:54:28-07:00",
+			"url": "http://www.barbic.com/2018/02/02/when-two-tribes.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/01/26/wall-of-beer.html",
+	      	
+			"content_text": "Wall of beer\n\n\n",
+			"date_published": "2018-01-25T18:03:23-07:00",
+			"url": "http://www.barbic.com/2018/01/25/wall-of-beer.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/01/03/i-dont-always.html",
+	      	
+			"content_text": "“I don’t always succeed. But I want to. And I...",
+			"date_published": "2018-01-02T18:42:13-07:00",
+			"url": "http://www.barbic.com/2018/01/02/i-dont-always.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/31/i-saw-a.html",
+	      	
+			"content_text": "I saw a Random Rock of Kindness on today’s hike....",
+			"date_published": "2017-12-31T12:18:12-07:00",
+			"url": "http://www.barbic.com/2017/12/31/i-saw-a.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/26/on-boxing-day.html",
+	      	
+			"title": "On Boxing Day",
+			
+			"content_text": "My memory this day will be of waking up early...",
+			"date_published": "2017-12-26T13:12:22-07:00",
+			"url": "http://www.barbic.com/2017/12/26/on-boxing-day.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/25/christmas-eve.html",
+	      	
+			"content_text": "Christmas Eve…\n\n\n",
+			"date_published": "2017-12-24T19:13:18-07:00",
+			"url": "http://www.barbic.com/2017/12/24/christmas-eve.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/23/christmas-lights-at.html",
+	      	
+			"content_text": "Christmas lights at Denver Botanic Gardens\n\n\n",
+			"date_published": "2017-12-23T08:41:27-07:00",
+			"url": "http://www.barbic.com/2017/12/23/christmas-lights-at.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/18/temptation.html",
+	      	
+			"content_text": "Temptation\n\n\n",
+			"date_published": "2017-12-17T17:11:10-07:00",
+			"url": "http://www.barbic.com/2017/12/17/temptation.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/16/has-banning-words.html",
+	      	
+			"content_text": "Has banning words ever worked out for the people trying...",
+			"date_published": "2017-12-16T12:56:09-07:00",
+			"url": "http://www.barbic.com/2017/12/16/has-banning-words.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/16/getting-started-halfway.html",
+	      	
+			"title": "Getting started halfway through my first year on micro.blog",
+			
+			"content_text": "Just finished the last major release of the year at...",
+			"date_published": "2017-12-16T10:01:26-07:00",
+			"url": "http://www.barbic.com/2017/12/16/getting-started-halfway.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/12/05/moon-over-table.html",
+	      	
+			"content_text": "Moon over Table Mountain\n\n\n",
+			"date_published": "2017-12-05T08:25:29-07:00",
+			"url": "http://www.barbic.com/2017/12/05/moon-over-table.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/11/23/thanksgiving-hike.html",
+	      	
+			"content_text": "Thanksgiving hike 2017\n\n\n",
+			"date_published": "2017-11-23T12:15:21-07:00",
+			"url": "http://www.barbic.com/2017/11/23/thanksgiving-hike.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/10/17/seen-at-work.html",
+	      	
+			"content_text": "Seen at work this morning.\n\n\n",
+			"date_published": "2017-10-17T07:37:03-06:00",
+			"url": "http://www.barbic.com/2017/10/17/seen-at-work.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/09/09/early-morning-on.html",
+	      	
+			"content_text": "Early morning on the pitch.\n\n\n",
+			"date_published": "2017-09-09T09:07:47-06:00",
+			"url": "http://www.barbic.com/2017/09/09/early-morning-on.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/09/04/hazy-labor-day.html",
+	      	
+			"content_text": "Hazy Labor Day morning\n\n\n",
+			"date_published": "2017-09-04T07:15:33-06:00",
+			"url": "http://www.barbic.com/2017/09/04/hazy-labor-day.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/09/03/long-live-steely.html",
+	      	
+			"content_text": "Long live Steely Dan…\n",
+			"date_published": "2017-09-03T10:25:42-06:00",
+			"url": "http://www.barbic.com/2017/09/03/long-live-steely.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/08/26/look-what-came.html",
+	      	
+			"content_text": "Look what came in the mail today. Clearly my addiction...",
+			"date_published": "2017-08-26T10:21:33-06:00",
+			"url": "http://www.barbic.com/2017/08/26/look-what-came.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/08/19/maybe-the-yr.html",
+	      	
+			"content_text": "Maybe the 11-yr old will be a cartoonist one day....",
+			"date_published": "2017-08-19T12:33:26-06:00",
+			"url": "http://www.barbic.com/2017/08/19/maybe-the-yr.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/08/02/watch-your-toes.html",
+	      	
+			"content_text": "Watch your toes!\n\n\n",
+			"date_published": "2017-08-02T08:23:09-06:00",
+			"url": "http://www.barbic.com/2017/08/02/watch-your-toes.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/07/29/many-chickens-died.html",
+	      	
+			"content_text": "Many chickens died to bring you this update…\n\n\n",
+			"date_published": "2017-07-28T18:54:39-06:00",
+			"url": "http://www.barbic.com/2017/07/28/many-chickens-died.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/06/24/deep-inside-the.html",
+	      	
+			"content_text": "Deep inside The Tattered Cover - Denver, CO.\n\n\n",
+			"date_published": "2017-06-24T14:18:12-06:00",
+			"url": "http://www.barbic.com/2017/06/24/deep-inside-the.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/06/15/.html",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-06-15T13:06:54-06:00",
+			"url": "http://www.barbic.com/2017/06/15/.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/06/15/i-suspect-that.html",
+	      	
+			"content_text": "I suspect that people who use spaces instead tabs are...",
+			"date_published": "2017-06-15T13:04:57-06:00",
+			"url": "http://www.barbic.com/2017/06/15/i-suspect-that.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/06/13/inside-outhttpsyoutubeqsotqzhpg.html",
+	      	
+			"content_text": "Inside Out\n",
+			"date_published": "2017-06-13T17:11:11-06:00",
+			"url": "http://www.barbic.com/2017/06/13/inside-outhttpsyoutubeqsotqzhpg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/06/03/my-favorite-mountainimg.html",
+	      	
+			"content_text": "My favorite mountain…\n\n\n",
+			"date_published": "2017-06-03T12:35:56-06:00",
+			"url": "http://www.barbic.com/2017/06/03/my-favorite-mountainimg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/30/smores-on-memorial.html",
+	      	
+			"content_text": "S’mores on Memorial Day\n\n\n",
+			"date_published": "2017-05-29T19:06:56-06:00",
+			"url": "http://www.barbic.com/2017/05/29/smores-on-memorial.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/28/tesla-aspen-coimg.html",
+	      	
+			"content_text": "Tesla Aspen, CO\n\n\n",
+			"date_published": "2017-05-28T11:15:11-06:00",
+			"url": "http://www.barbic.com/2017/05/28/tesla-aspen-coimg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/28/nice-view-while.html",
+	      	
+			"content_text": "Nice view while making coffee…\n\n\n",
+			"date_published": "2017-05-28T08:19:22-06:00",
+			"url": "http://www.barbic.com/2017/05/28/nice-view-while.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/27/mt-soprisimg-srchttpdailymicrobloguploadsfcffjpg.html",
+	      	
+			"content_text": "Mt. Sopris\n\n\n",
+			"date_published": "2017-05-26T20:10:58-06:00",
+			"url": "http://www.barbic.com/2017/05/26/mt-soprisimg-srchttpdailymicrobloguploadsfcffjpg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/18/colorado-in-springimg.html",
+	      	
+			"content_text": "Colorado in Spring\n\n\n",
+			"date_published": "2017-05-18T06:56:50-06:00",
+			"url": "http://www.barbic.com/2017/05/18/colorado-in-springimg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/15/playing-with-fireimg.html",
+	      	
+			"content_text": "Playing with fire…\n\n\n",
+			"date_published": "2017-05-14T18:55:04-06:00",
+			"url": "http://www.barbic.com/2017/05/14/playing-with-fireimg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/14/175152.html",
+	      	
+			"content_text": "Mother’s Day\n\n\n",
+			"date_published": "2017-05-14T11:51:52-06:00",
+			"url": "http://www.barbic.com/2017/05/14/175152.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/12/meta-noir-img.html",
+	      	
+			"content_text": "Meta Noir :-)\n\n\n",
+			"date_published": "2017-05-12T16:21:08-06:00",
+			"url": "http://www.barbic.com/2017/05/12/meta-noir-img.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/12/star-trekimg-srchttpdailymicrobloguploadseecjpg.html",
+	      	
+			"content_text": "Star Trek\n\n\n",
+			"date_published": "2017-05-12T08:58:40-06:00",
+			"url": "http://www.barbic.com/2017/05/12/star-trekimg-srchttpdailymicrobloguploadseecjpg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/12/pops-img-srchttpdailymicrobloguploadsfbfedjpg.html",
+	      	
+			"content_text": "Pops 2017\n\n\n",
+			"date_published": "2017-05-11T18:51:49-06:00",
+			"url": "http://www.barbic.com/2017/05/11/pops-img-srchttpdailymicrobloguploadsfbfedjpg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/10/gofccyourselfcomgofccyourselfcom-been-there.html",
+	      	
+			"content_text": " gofccyourself.com - Been there done that.\n",
+			"date_published": "2017-05-10T09:36:37-06:00",
+			"url": "http://www.barbic.com/2017/05/10/gofccyourselfcomgofccyourselfcom-been-there.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/08/im-seeing-this.html",
+	      	
+			"content_text": "“I’m seeing this and all I can think to myself...",
+			"date_published": "2017-05-07T18:57:40-06:00",
+			"url": "http://www.barbic.com/2017/05/07/im-seeing-this.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/07/rough-oneimg-srchttpdailymicrobloguploadseaajpg.html",
+	      	
+			"content_text": "Rough One…\n\n\n",
+			"date_published": "2017-05-07T15:53:31-06:00",
+			"url": "http://www.barbic.com/2017/05/07/rough-oneimg-srchttpdailymicrobloguploadseaajpg.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/06/saturday-starts-with.html",
+	      	
+			"content_text": "Saturday starts with the EPL.\n",
+			"date_published": "2017-05-06T07:26:14-06:00",
+			"url": "http://www.barbic.com/2017/05/06/saturday-starts-with.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/05/health-food-under.html",
+	      	
+			"content_text": "Health food @ Under The Sun - Boulder, CO.\n\n\n",
+			"date_published": "2017-05-04T19:23:09-06:00",
+			"url": "http://www.barbic.com/2017/05/04/health-food-under.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/03/table-mountain-golden.html",
+	      	
+			"content_text": "Table Mountain Golden, Colorado.\n\n\n",
+			"date_published": "2017-05-03T12:34:12-06:00",
+			"url": "http://www.barbic.com/2017/05/03/table-mountain-golden.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/03/i-dont-know.html",
+	      	
+			"content_text": "I don’t know how it happened, but I seem to...",
+			"date_published": "2017-05-03T08:07:08-06:00",
+			"url": "http://www.barbic.com/2017/05/03/i-dont-know.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/05/01/taking-baby-steps.html",
+	      	
+			"content_text": "Taking baby steps…\n",
+			"date_published": "2017-05-01T08:06:16-06:00",
+			"url": "http://www.barbic.com/2017/05/01/taking-baby-steps.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2017/04/29/happy-to-be.html",
+	      	
+			"content_text": "Happy to be supporting micro.blog!\n",
+			"date_published": "2017-04-29T10:53:44-06:00",
+			"url": "http://www.barbic.com/2017/04/29/happy-to-be.html"
+		}
+		
+	]
+}
