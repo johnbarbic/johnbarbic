@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/08/03/according-to-my.html",
+	      	
+			"content_html": "<p>According to my account page this will be my 100th post on Micro.blog.  To celebrate, I added a Now page, which I have seen on many micro blogs and which I will use to push myself from, ah, now on…</p>\n",
+			"date_published": "2018-08-03T15:34:59-06:00",
+			"url": "http://www.barbic.com/2018/08/03/according-to-my.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/07/30/happy-boi.html",
 	      	
 			"content_html": "<p>Happy boi</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/50c8a78a9e.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>“Nice Easter cairn you have there.” These are the words that came out of my mouth this afternoon.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/ad6ce9d48f.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-04-01T14:51:09-06:00",
 			"url": "http://www.barbic.com/2018/04/01/nice-easter-cairn.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/03/31/halftime-at-pleasantview.html",
-	      	
-			"content_html": "<p>Halftime at Pleasant View</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/890b7b6ac3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-31T17:39:04-06:00",
-			"url": "http://www.barbic.com/2018/03/31/halftime-at-pleasantview.html"
 		}
 		
 	]
