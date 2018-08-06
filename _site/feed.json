@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/08/05/today-is-the.html",
+	      	
+			"content_html": "<p>Today is the annual memorial bike ride for Travis.  It looks like the boys will be sitting this one out in an old Amazon delivery box.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/eafeb5d322.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-08-05T08:36:34-06:00",
+			"url": "http://www.barbic.com/2018/08/05/today-is-the.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/08/03/according-to-my.html",
 	      	
 			"content_html": "<p>According to my account page this will be my 100th post on Micro.blog.  To celebrate, I added a Now page, which I have seen on many micro blogs and which I will use to push myself from, ah, now on…</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Very windy going this afternoon..</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/ff82ffa204.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-04-08T13:38:50-06:00",
 			"url": "http://www.barbic.com/2018/04/08/very-windy-going.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/04/01/nice-easter-cairn.html",
-	      	
-			"content_html": "<p>“Nice Easter cairn you have there.” These are the words that came out of my mouth this afternoon.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/ad6ce9d48f.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-04-01T14:51:09-06:00",
-			"url": "http://www.barbic.com/2018/04/01/nice-easter-cairn.html"
 		}
 		
 	]
