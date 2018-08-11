@@ -43,7 +43,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Mountain"
 site_id: "1213"
 gems: ["jekyll-paginate"]
+itunes_description: ""
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "John Barbic"
+itunes_email: ""
 podcast: false
