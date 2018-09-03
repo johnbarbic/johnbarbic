@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/09/02/the-gunners-got.html",
+	      	
+			"content_text": "The gunners got lucky there #soccercat\n\n\n",
+			"date_published": "2018-09-02T06:54:37-06:00",
+			"url": "http://www.barbic.com/2018/09/02/the-gunners-got.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/09/01/our-cat-watching.html",
+	      	
+			"content_text": "Our cat watching soccer.\n\n\n",
+			"date_published": "2018-09-01T06:12:45-06:00",
+			"url": "http://www.barbic.com/2018/09/01/our-cat-watching.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/08/27/live-from-the.html",
 	      	
 			"content_text": "Live from the tree house.\n\n\n",
