@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "John Barbic",
+	"icon": "https://micro.blog/johnbarbic/avatar.jpg",
 	"home_page_url": "http://www.barbic.com/",
 	"feed_url": "http://www.barbic.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/09/18/so-i-got.html",
+	      	
+			"content_html": "<p>So I got “mugged” at work yesterday. This is what they left me.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/0eb9c8970b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-09-18T09:34:11-06:00",
+			"url": "http://www.barbic.com/2018/09/18/so-i-got.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/09/03/labor-day-parade.html",
+	      	
+			"content_html": "<p>Labor Day Parade route - Louisville, CO.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/f8d3a42642.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-09-03T09:32:29-06:00",
+			"url": "http://www.barbic.com/2018/09/03/labor-day-parade.html"
+		},
 		
 		{
 			"id": "http://johnbarbic.micro.blog/2018/09/02/the-gunners-got.html",
@@ -189,22 +206,6 @@
 			"content_html": "<p>“Where is home? Most of us are born with the answer—others have to sift through the pieces.” - AB</p>\n",
 			"date_published": "2018-06-08T15:48:07-06:00",
 			"url": "http://www.barbic.com/2018/06/08/where-is-home.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/05/25/a-baby-jalapeo.html",
-	      	
-			"content_html": "<p>A baby jalapeño!</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/0d73a46828.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-05-24T18:30:39-06:00",
-			"url": "http://www.barbic.com/2018/05/24/a-baby-jalapeo.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/05/21/from-the-year.html",
-	      	
-			"content_html": "<p>From 1996, <a href=\"https://www.wsj.com/public/current/summaries/hypetoc.htm\">The Year on the Net</a></p>\n",
-			"date_published": "2018-05-21T07:24:08-06:00",
-			"url": "http://www.barbic.com/2018/05/21/from-the-year.html"
 		}
 		
 	]
