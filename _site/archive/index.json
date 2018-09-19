@@ -1,9 +1,26 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "John Barbic",
+	"icon": "https://micro.blog/johnbarbic/avatar.jpg",
 	"home_page_url": "http://www.barbic.com/",
 	"feed_url": "http://www.barbic.com/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/09/18/so-i-got.html",
+	      	
+			"content_text": "So I got “mugged” at work yesterday. This is what...",
+			"date_published": "2018-09-18T09:34:11-06:00",
+			"url": "http://www.barbic.com/2018/09/18/so-i-got.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/09/03/labor-day-parade.html",
+	      	
+			"content_text": "Labor Day Parade route - Louisville, CO.\n\n\n",
+			"date_published": "2018-09-03T09:32:29-06:00",
+			"url": "http://www.barbic.com/2018/09/03/labor-day-parade.html"
+		},
 		
 		{
 			"id": "http://johnbarbic.micro.blog/2018/09/02/the-gunners-got.html",
