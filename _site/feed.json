@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/09/23/im-in-it.html",
+	      	
+			"content_html": "<p>I’m in it now!</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/4714e8e375.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-09-23T11:02:28-06:00",
+			"url": "http://www.barbic.com/2018/09/23/im-in-it.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/09/18/so-i-got.html",
 	      	
 			"content_html": "<p>So I got “mugged” at work yesterday. This is what they left me.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/0eb9c8970b.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>Steely Dan</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/205c1f04c3.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-06-12T22:16:39-06:00",
 			"url": "http://www.barbic.com/2018/06/12/steely-dan.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/06/08/where-is-home.html",
-	      	
-			"content_html": "<p>“Where is home? Most of us are born with the answer—others have to sift through the pieces.” - AB</p>\n",
-			"date_published": "2018-06-08T15:48:07-06:00",
-			"url": "http://www.barbic.com/2018/06/08/where-is-home.html"
 		}
 		
 	]
