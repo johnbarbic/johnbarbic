@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/10/03/a-fantastic-article.html",
+	      	
+			"content_text": "A fantastic article on information warfare  by Molly McKew.\n",
+			"date_published": "2018-10-03T11:18:06-06:00",
+			"url": "http://www.barbic.com/2018/10/03/a-fantastic-article.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/09/23/im-in-it.html",
 	      	
 			"content_text": "I’m in it now!\n\n\n",
