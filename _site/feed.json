@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/10/27/sure-its-yard.html",
+	      	
+			"content_html": "<p>Sure it’s yard work, but what a beautiful Fall day!</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/61354ba493.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-27T12:40:02-06:00",
+			"url": "http://www.barbic.com/2018/10/27/sure-its-yard.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/10/22/that-moment-when.html",
 	      	
 			"content_html": "<p>That moment when you realize you can earn a pin by padding downstairs and posting something, anything, that is what this is.</p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p><a href=\"https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy\">Ways to think about machine learning</a></p>\n",
 			"date_published": "2018-07-02T07:40:16-06:00",
 			"url": "http://www.barbic.com/2018/07/02/ways-to-think.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/06/24/a-few-pictures.html",
-	      	
-			"content_html": "<p>A few pictures from Sunday.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/c72580177b.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.barbic.com/uploads/2018/a7a7bf8202.jpg\" width=\"600\" height=\"599\" /><img src=\"http://www.barbic.com/uploads/2018/3fe965ba4d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-06-24T11:16:20-06:00",
-			"url": "http://www.barbic.com/2018/06/24/a-few-pictures.html"
 		}
 		
 	]
