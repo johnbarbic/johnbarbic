@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-18 06:56:50 -0600
+date: 2017-05-18 05:56:50 -0700
 guid: http://johnbarbic.micro.blog/2017/05/18/colorado-in-springimg.html
 ---
 Colorado in Spring
