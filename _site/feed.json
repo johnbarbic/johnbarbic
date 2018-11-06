@@ -7,6 +7,30 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/11/06/remember-the-future.html",
+	      	
+			"content_html": "<p>“Remember the Future”</p>\n",
+			"date_published": "2018-11-06T10:16:06-07:00",
+			"url": "http://www.barbic.com/2018/11/06/remember-the-future.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/11/03/getting-ready-for.html",
+	      	
+			"content_html": "<p>Getting ready for State finals.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/6ab480b049.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-11-03T15:53:15-06:00",
+			"url": "http://www.barbic.com/2018/11/03/getting-ready-for.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/10/30/fifty-years-of.html",
+	      	
+			"content_html": "<p><a href=\"http://time.com/69316/basic/\">Fifty Years of BASIC</a> a very enjoyable read.</p>\n",
+			"date_published": "2018-10-30T09:51:02-06:00",
+			"url": "http://www.barbic.com/2018/10/30/fifty-years-of.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/10/27/sure-its-yard.html",
 	      	
 			"content_html": "<p>Sure it’s yard work, but what a beautiful Fall day!</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/61354ba493.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -182,30 +206,6 @@
 			"content_html": "<p>Waking up to Stage One of The Tour and diving straight into England vs Sweden.  The coffee seems extra sweet this morning.</p>\n",
 			"date_published": "2018-07-07T08:32:02-06:00",
 			"url": "http://www.barbic.com/2018/07/07/waking-up-to.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/07/05/the-crew-and.html",
-	      	
-			"content_html": "<p>The Crew and The Secretary of Defense.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/1a04ad4323.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.barbic.com/uploads/2018/47bc73d3e7.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-07-04T20:07:07-06:00",
-			"url": "http://www.barbic.com/2018/07/04/the-crew-and.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/07/03/if-innovation-is.html",
-	      	
-			"content_html": "<p><a href=\"https://medium.learningbyshipping.com/intel-disruption-594f806cfc21\">“… if innovation is focused on first and foremost being proprietary vs solving problems people have, then I think you’ll always run into trouble.”</a>  - Steven Sinofsky (Hat tip: Daring Fireball)</p>\n",
-			"date_published": "2018-07-03T08:28:52-06:00",
-			"url": "http://www.barbic.com/2018/07/03/if-innovation-is.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/07/02/ways-to-think.html",
-	      	
-			"content_html": "<p><a href=\"https://www.ben-evans.com/benedictevans/2018/06/22/ways-to-think-about-machine-learning-8nefy\">Ways to think about machine learning</a></p>\n",
-			"date_published": "2018-07-02T07:40:16-06:00",
-			"url": "http://www.barbic.com/2018/07/02/ways-to-think.html"
 		}
 		
 	]
