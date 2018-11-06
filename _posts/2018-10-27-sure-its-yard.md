@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-27 12:40:02 -0600
+date: 2018-10-27 11:40:02 -0700
 guid: http://johnbarbic.micro.blog/2018/10/27/sure-its-yard.html
 ---
 Sure it’s yard work, but what a beautiful Fall day!
