@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-20 18:35:07 -0600
+date: 2018-07-20 17:35:07 -0700
 guid: http://johnbarbic.micro.blog/2018/07/21/chris-your-dinner.html
 ---
 “Chris, your dinner is served.”
