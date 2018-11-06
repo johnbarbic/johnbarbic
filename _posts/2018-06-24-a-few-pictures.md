@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-24 11:16:20 -0600
+date: 2018-06-24 10:16:20 -0700
 guid: http://johnbarbic.micro.blog/2018/06/24/a-few-pictures.html
 ---
 A few pictures from Sunday.
