@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-15 07:42:51 -0600
+date: 2018-07-15 06:42:51 -0700
 guid: http://johnbarbic.micro.blog/2018/07/15/our-crew-for.html
 ---
 Our crew for the 2018 Donor Dash.
