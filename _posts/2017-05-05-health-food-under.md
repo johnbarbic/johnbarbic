@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-05-04 19:23:09 -0600
+date: 2017-05-04 18:23:09 -0700
 guid: http://johnbarbic.micro.blog/2017/05/05/health-food-under.html
 ---
 Health food @ Under The Sun - Boulder, CO.
