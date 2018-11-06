@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-09 09:07:47 -0600
+date: 2017-09-09 08:07:47 -0700
 guid: http://johnbarbic.micro.blog/2017/09/09/early-morning-on.html
 ---
 Early morning on the pitch.
