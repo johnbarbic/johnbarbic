@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-22 05:36:02 -0600
+date: 2018-06-22 04:36:02 -0700
 guid: http://johnbarbic.micro.blog/2018/06/22/summer-begins.html
 ---
 Summer begins
