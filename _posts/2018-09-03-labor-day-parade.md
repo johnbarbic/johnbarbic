@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-03 09:32:29 -0600
+date: 2018-09-03 08:32:29 -0700
 guid: http://johnbarbic.micro.blog/2018/09/03/labor-day-parade.html
 ---
 Labor Day Parade route - Louisville, CO.
