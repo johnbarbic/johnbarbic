@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-26 19:51:06 -0600
+date: 2018-08-26 18:51:06 -0700
 guid: http://johnbarbic.micro.blog/2018/08/27/live-from-the.html
 ---
 Live from the tree house.
