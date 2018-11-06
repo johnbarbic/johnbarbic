@@ -4,7 +4,7 @@ permalink: "/now/"
 layout: page
 order: 3
 navigation: true
-date: 2018-08-04 07:46:05 -0600
+date: 2018-08-04 06:46:05 -0700
 ---
 ## What I'm doing now
 
