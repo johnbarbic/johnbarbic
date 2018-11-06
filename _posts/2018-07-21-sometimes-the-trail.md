@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-21 17:59:45 -0600
+date: 2018-07-21 16:59:45 -0700
 guid: http://johnbarbic.micro.blog/2018/07/21/sometimes-the-trail.html
 ---
 Sometimes the trail can get a little tricky.
