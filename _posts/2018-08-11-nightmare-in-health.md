@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-11 15:32:54 -0600
+date: 2018-08-11 14:32:54 -0700
 guid: http://johnbarbic.micro.blog/2018/08/11/nightmare-in-health.html
 ---
 Nightmare in Health Class
