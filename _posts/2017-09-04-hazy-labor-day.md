@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-09-04 07:15:33 -0600
+date: 2017-09-04 06:15:33 -0700
 guid: http://johnbarbic.micro.blog/2017/09/04/hazy-labor-day.html
 ---
 Hazy Labor Day morning
