@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-16 12:56:09 -0700
 guid: http://johnbarbic.micro.blog/2017/12/16/has-banning-words.html
 ---
