@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://johnbarbic.micro.blog/uploads/2017/f86970eff4.jpg
 date: 2017-06-24 13:18:12 -0700
 guid: http://johnbarbic.micro.blog/2017/06/24/deep-inside-the.html
 ---
