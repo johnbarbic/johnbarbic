@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2018/592985f852.jpg
 date: 2018-03-02 07:25:58 -0700
 guid: http://johnbarbic.micro.blog/2018/03/02/once-the-center.html
 ---
