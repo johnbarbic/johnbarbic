@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://johnbarbic.micro.blog/uploads/2017/5972e263ec.jpg
 date: 2017-05-12 07:58:40 -0700
 guid: http://johnbarbic.micro.blog/2017/05/12/star-trekimg-srchttpdailymicrobloguploadseecjpg.html
 ---
