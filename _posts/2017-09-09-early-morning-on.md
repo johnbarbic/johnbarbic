@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2017/11e12a7e89.jpg
 date: 2017-09-09 08:07:47 -0700
 guid: http://johnbarbic.micro.blog/2017/09/09/early-morning-on.html
 ---
