@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-15 12:04:57 -0700
 guid: http://johnbarbic.micro.blog/2017/06/15/i-suspect-that.html
 ---
