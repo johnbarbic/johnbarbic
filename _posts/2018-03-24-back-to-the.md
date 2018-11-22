@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-24 12:02:01 -0700
 guid: http://johnbarbic.micro.blog/2018/03/24/back-to-the.html
 ---
