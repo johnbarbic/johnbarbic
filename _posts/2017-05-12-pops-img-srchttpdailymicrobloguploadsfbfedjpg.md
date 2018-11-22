@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://johnbarbic.micro.blog/uploads/2017/4f6bfed207.jpg
 date: 2017-05-11 17:51:49 -0700
 guid: http://johnbarbic.micro.blog/2017/05/12/pops-img-srchttpdailymicrobloguploadsfbfedjpg.html
 ---
