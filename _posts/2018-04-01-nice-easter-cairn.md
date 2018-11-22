@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2018/ad6ce9d48f.jpg
 date: 2018-04-01 13:51:09 -0700
 guid: http://johnbarbic.micro.blog/2018/04/01/nice-easter-cairn.html
 ---
