@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-02 06:40:16 -0700
 guid: http://johnbarbic.micro.blog/2018/07/02/ways-to-think.html
 ---
