@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-02 18:42:13 -0700
 guid: http://johnbarbic.micro.blog/2018/01/03/i-dont-always.html
 ---
