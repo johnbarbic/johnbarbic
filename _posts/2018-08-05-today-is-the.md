@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2018/eafeb5d322.jpg
 date: 2018-08-05 07:36:34 -0700
 guid: http://johnbarbic.micro.blog/2018/08/05/today-is-the.html
 ---
