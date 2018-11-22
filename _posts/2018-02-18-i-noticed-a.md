@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-18 14:16:38 -0700
 guid: http://johnbarbic.micro.blog/2018/02/18/i-noticed-a.html
 ---
