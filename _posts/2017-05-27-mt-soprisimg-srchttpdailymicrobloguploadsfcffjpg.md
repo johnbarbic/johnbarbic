@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://johnbarbic.micro.blog/uploads/2017/fc3951f6f6.jpg
 date: 2017-05-26 19:10:58 -0700
 guid: http://johnbarbic.micro.blog/2017/05/27/mt-soprisimg-srchttpdailymicrobloguploadsfcffjpg.html
 ---
