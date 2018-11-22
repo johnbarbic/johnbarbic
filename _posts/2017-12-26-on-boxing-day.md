@@ -3,6 +3,7 @@ layout: post
 title: "On Boxing Day"
 microblog: false
 audio: 
+photo: 
 date: 2017-12-26 13:12:22 -0700
 guid: http://johnbarbic.micro.blog/2017/12/26/on-boxing-day.html
 ---
