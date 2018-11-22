@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-19 19:30:01 -0700
 guid: http://johnbarbic.micro.blog/2018/11/20/if-you-follow.html
 ---
