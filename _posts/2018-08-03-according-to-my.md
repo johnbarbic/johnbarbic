@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-03 14:34:59 -0700
 guid: http://johnbarbic.micro.blog/2018/08/03/according-to-my.html
 ---
