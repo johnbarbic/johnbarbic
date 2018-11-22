@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-22 00:02:03 -0700
 guid: http://johnbarbic.micro.blog/2018/10/22/that-moment-when.html
 ---
