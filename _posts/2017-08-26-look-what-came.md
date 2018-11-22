@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2017/f595dc210d.jpg
 date: 2017-08-26 09:21:33 -0700
 guid: http://johnbarbic.micro.blog/2017/08/26/look-what-came.html
 ---
