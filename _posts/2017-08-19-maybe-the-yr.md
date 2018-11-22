@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2017/a667e495d5.jpg
 date: 2017-08-19 11:33:26 -0700
 guid: http://johnbarbic.micro.blog/2017/08/19/maybe-the-yr.html
 ---
