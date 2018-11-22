@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2018/3fe965ba4d.jpg
 date: 2018-06-24 10:16:20 -0700
 guid: http://johnbarbic.micro.blog/2018/06/24/a-few-pictures.html
 ---
