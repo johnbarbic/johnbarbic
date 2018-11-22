@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-22 11:02:52 -0700
 guid: http://johnbarbic.micro.blog/2018/02/22/the-battery-replacement.html
 ---
