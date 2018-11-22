@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-17 12:26:00 -0700
 guid: http://johnbarbic.micro.blog/2018/10/17/yeah-sure-they.html
 ---
