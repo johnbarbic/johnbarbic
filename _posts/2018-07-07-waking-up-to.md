@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-07 07:32:02 -0700
 guid: http://johnbarbic.micro.blog/2018/07/07/waking-up-to.html
 ---
