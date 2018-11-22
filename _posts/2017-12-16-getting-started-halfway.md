@@ -3,6 +3,7 @@ layout: post
 title: "Getting started halfway through my first year on micro.blog"
 microblog: false
 audio: 
+photo: 
 date: 2017-12-16 10:01:26 -0700
 guid: http://johnbarbic.micro.blog/2017/12/16/getting-started-halfway.html
 ---
