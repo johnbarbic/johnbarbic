@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2018/b8187b5fc2.jpg
 date: 2018-07-21 16:59:45 -0700
 guid: http://johnbarbic.micro.blog/2018/07/21/sometimes-the-trail.html
 ---
