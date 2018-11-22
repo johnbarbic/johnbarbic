@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2017/5d2e3ab4eb.jpg
 date: 2017-11-23 12:15:21 -0700
 guid: http://johnbarbic.micro.blog/2017/11/23/thanksgiving-hike.html
 ---
