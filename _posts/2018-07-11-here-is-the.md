@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-11 06:31:24 -0700
 guid: http://johnbarbic.micro.blog/2018/07/11/here-is-the.html
 ---
