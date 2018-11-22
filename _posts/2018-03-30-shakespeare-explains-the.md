@@ -3,6 +3,7 @@ layout: post
 title: "Henslowe explains the business of software development "
 microblog: false
 audio: 
+photo: 
 date: 2018-03-30 09:07:12 -0700
 guid: http://johnbarbic.micro.blog/2018/03/30/shakespeare-explains-the.html
 ---
