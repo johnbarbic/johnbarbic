@@ -3,6 +3,7 @@ layout: post
 title: "How E-Commerce Is Transforming Rural China"
 microblog: false
 audio: 
+photo: 
 date: 2018-07-24 06:31:25 -0700
 guid: http://johnbarbic.micro.blog/2018/07/24/how-ecommerce-is.html
 ---
