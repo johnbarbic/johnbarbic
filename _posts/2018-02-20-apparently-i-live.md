@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2018/a887252b26.jpg
 date: 2018-02-20 07:33:48 -0700
 guid: http://johnbarbic.micro.blog/2018/02/20/apparently-i-live.html
 ---
