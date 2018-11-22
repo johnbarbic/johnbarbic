@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-21 06:24:08 -0700
 guid: http://johnbarbic.micro.blog/2018/05/21/from-the-year.html
 ---
