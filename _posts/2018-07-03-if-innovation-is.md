@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-03 07:28:52 -0700
 guid: http://johnbarbic.micro.blog/2018/07/03/if-innovation-is.html
 ---
