@@ -3,6 +3,7 @@ layout: post
 title: "Replacing the Battery in an Early 2013 MacBook Pro - Close up of the keyboard ribbon cable"
 microblog: false
 audio: 
+photo: http://www.barbic.com/uploads/2018/314aa2ca4e.jpg
 date: 2018-03-02 07:31:44 -0700
 guid: http://johnbarbic.micro.blog/2018/03/02/replacing-the-battery.html
 ---
