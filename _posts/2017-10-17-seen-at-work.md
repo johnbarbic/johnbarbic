@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2017/da517d7447.jpg
 date: 2017-10-17 06:37:03 -0700
 guid: http://johnbarbic.micro.blog/2017/10/17/seen-at-work.html
 ---
