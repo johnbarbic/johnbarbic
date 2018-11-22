@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-05-03 07:07:08 -0700
 guid: http://johnbarbic.micro.blog/2017/05/03/i-dont-know.html
 ---
