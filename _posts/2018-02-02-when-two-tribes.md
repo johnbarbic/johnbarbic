@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-02 08:54:28 -0700
 guid: http://johnbarbic.micro.blog/2018/02/02/when-two-tribes.html
 ---
