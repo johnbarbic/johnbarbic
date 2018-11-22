@@ -3,6 +3,7 @@ layout: post
 title: "The Mac Daddy"
 microblog: false
 audio: 
+photo: http://www.barbic.com/uploads/2018/5b3cb60751.jpg
 date: 2018-03-03 07:12:29 -0700
 guid: http://johnbarbic.micro.blog/2018/03/03/the-mac-daddy.html
 ---
