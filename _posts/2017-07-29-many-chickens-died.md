@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.barbic.com/uploads/2017/93eea8fe26.jpg
 date: 2017-07-28 17:54:39 -0700
 guid: http://johnbarbic.micro.blog/2017/07/29/many-chickens-died.html
 ---
