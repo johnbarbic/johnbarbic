@@ -4,7 +4,7 @@ permalink: "/bits-pieces/"
 layout: page
 order: 2
 navigation: true
-date: 2018-08-03 13:13:49 -0700
+date: 2018-08-03 15:13:49 -0500
 ---
 Here is an incomplete list of tools I use most everyday and why:
 
