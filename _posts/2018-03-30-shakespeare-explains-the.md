@@ -4,7 +4,7 @@ title: "Henslowe explains the business of software development "
 microblog: false
 audio: 
 photo: 
-date: 2018-03-30 09:07:12 -0700
+date: 2018-03-30 11:07:12 -0500
 guid: http://johnbarbic.micro.blog/2018/03/30/shakespeare-explains-the.html
 ---
 **Henslowe:** Mr. Fennyman, allow me to explain about the software business. The natural condition is one of insurmountable obstacles on the road to imminent disaster.
