@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: http://www.barbic.com/uploads/2018/d334dce4ed.jpg
-date: 2018-09-01 05:12:45 -0700
+date: 2018-09-01 07:12:45 -0500
 guid: http://johnbarbic.micro.blog/2018/09/01/our-cat-watching.html
 ---
 Our cat watching soccer.
