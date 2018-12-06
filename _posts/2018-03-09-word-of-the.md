@@ -4,7 +4,7 @@ title: "Word of the day - Licentious"
 microblog: false
 audio: 
 photo: 
-date: 2018-03-09 08:17:02 -0700
+date: 2018-03-09 10:17:02 -0500
 guid: http://johnbarbic.micro.blog/2018/03/09/word-of-the.html
 ---
 Reading this morning I came upon this word, [licentious.](https://www.wordnik.com/words/licentious)  
