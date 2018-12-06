@@ -3,7 +3,7 @@ layout: post
 microblog: true
 audio: 
 photo: http://www.barbic.com/uploads/2018/47bc73d3e7.jpg
-date: 2018-07-04 19:07:07 -0700
+date: 2018-07-04 21:07:07 -0500
 guid: http://johnbarbic.micro.blog/2018/07/05/the-crew-and.html
 ---
 The Crew and The Secretary of Defense.
