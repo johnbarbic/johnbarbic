@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 order: 1
 navigation: true
-date: 2018-03-24 12:03:10 -0700
+date: 2018-03-24 14:03:10 -0500
 ---
 I'm a software guy living in Colorado. 
 
