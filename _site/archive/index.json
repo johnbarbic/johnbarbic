@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/12/07/frog-says-relax.html",
+	      	
+			"content_text": "Frog says, “Relax.”\n\n\n",
+			"date_published": "2018-12-07T09:30:48-05:00",
+			"url": "http://www.barbic.com/2018/12/07/frog-says-relax.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/12/07/this-house-is.html",
+	      	
+			"content_text": "This house is filled with decorative frogs. So many in...",
+			"date_published": "2018-12-06T20:06:27-05:00",
+			"url": "http://www.barbic.com/2018/12/06/this-house-is.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/12/06/mom-always-keeps.html",
 	      	
 			"content_text": "Mom always keeps the cap on her MagSafe and I...",
