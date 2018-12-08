@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/12/08/canaveral-national-seashore.html",
+	      	
+			"content_text": "Canaveral National Seashore\n\n\n",
+			"date_published": "2018-12-08T17:05:15-05:00",
+			"url": "http://www.barbic.com/2018/12/08/canaveral-national-seashore.html"
+		},
+		
+		{
+			"id": "http://johnbarbic.micro.blog/2018/12/07/frog-table-roger.html",
+	      	
+			"content_text": "Frog table?  Roger that!\n\n\n",
+			"date_published": "2018-12-07T15:57:07-05:00",
+			"url": "http://www.barbic.com/2018/12/07/frog-table-roger.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/12/07/frog-says-relax.html",
 	      	
 			"content_text": "Frog says, “Relax.”\n\n\n",
