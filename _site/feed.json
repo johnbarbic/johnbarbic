@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://johnbarbic.micro.blog/2018/12/09/one-of-my.html",
+	      	
+			"content_html": "<p>One of my favorites so far.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/4158a2f098.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-09T08:37:28-05:00",
+			"url": "http://www.barbic.com/2018/12/09/one-of-my.html"
+		},
+		
+		{
 			"id": "http://johnbarbic.micro.blog/2018/12/08/canaveral-national-seashore.html",
 	      	
 			"content_html": "<p>Canaveral National Seashore</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/f32d5a1f78.jpg\" width=\"600\" height=\"599\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"http://www.barbic.com/uploads/2018/d5323d461e.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://www.barbic.com/uploads/2018/b1fd74bb57.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Nightmare in Health Class</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/0b291be543.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-08-11T17:32:54-04:00",
 			"url": "http://www.barbic.com/2018/08/11/nightmare-in-health.html"
-		},
-		
-		{
-			"id": "http://johnbarbic.micro.blog/2018/08/05/today-is-the.html",
-	      	
-			"content_html": "<p>Today is the annual memorial bike ride for Travis.  It looks like the boys will be sitting this one out in an old Amazon delivery box.</p>\n\n<p><img src=\"http://www.barbic.com/uploads/2018/eafeb5d322.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-08-05T10:36:34-04:00",
-			"url": "http://www.barbic.com/2018/08/05/today-is-the.html"
 		}
 		
 	]
